@@ -1,0 +1,56 @@
+Sequence lignfile not found in alignment. Using default output format...
+
+# ./pdb2fasta-master/2WQG.fasta -- js_divergence - window_size: 3 - background: blosum62 - seq. weighting: True - gap penalty: 1 - normalized: False
+# align_column_number	score	column
+
+0	0.78967	G
+1	0.83674	S
+2	0.79904	A
+3	0.84181	D
+4	0.85774	Y
+5	0.83495	S
+6	0.83591	S
+7	0.80606	L
+8	0.83600	T
+9	0.81630	V
+10	0.81683	V
+11	0.85774	Q
+12	0.80184	L
+13	0.82779	K
+14	0.83424	D
+15	0.79745	L
+16	0.80415	L
+17	0.83687	T
+18	0.82945	K
+19	0.83922	R
+20	0.85172	N
+21	0.80417	L
+22	0.82615	S
+23	0.80854	V
+24	0.79706	G
+25	0.80564	G
+26	0.79882	L
+27	0.83931	K
+28	0.85492	N
+29	0.84704	E
+30	0.89998	W
+31	0.83703	V
+32	0.86761	Q
+33	0.85175	R
+34	0.81021	L
+35	0.83748	I
+36	0.83799	K
+37	0.84014	D
+38	0.84542	D
+39	0.84027	E
+40	0.83582	E
+41	0.83458	S
+42	0.83597	K
+43	0.81373	G
+44	0.83116	E
+45	0.83116	S
+46	0.83355	E
+47	0.83126	V
+48	0.83674	S
+49	0.87171	P
+50	0.89311	Q

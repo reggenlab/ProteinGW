@@ -1,0 +1,12 @@
+	1YCC
+	L
+	89
+	-
+bulkiness	62.03703703703704
+clustering_coeff	59.72222222222222
+conservation_score	60.87962962962963
+molecular_weight	35.18518518518518
+node_degree	49.074074074074076
+node_weighted_degree	47.222222222222214
+partial_specific_volume	43.98148148148148
+turn_tendency	71.29629629629629

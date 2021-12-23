@@ -1,0 +1,629 @@
+	0	AA_change	Disease name	0	1	2	3
+0	1A6N	Glu55Lys	-	Glu	55	Lys	
+1	1A6N	Lys134Asn	-	Lys	134	Asn	
+2	1A6N	Arg140Gln	-	Arg	140	Gln	
+3	1A6N	Arg140Trp	-	Arg	140	Trp	
+0	1AEY	Ile1300Thr	-	Ile	1300	Thr	
+1	1AEY	Ser904Cys	A breast cancer sample	Ser	904	Cys	
+2	1AEY	Pro1017Ser	A breast cancer sample	Pro	1017	Ser	
+3	1AEY	Arg1794Trp	A breast cancer sample	Arg	1794	Trp	
+4	1AEY	Asp1918Asn	A breast cancer sample	Asp	1918	Asn	
+5	1AEY	Asn385Ser	-	Asn	385	Ser	
+0	1AUE	Ala8Ser	A lung large cell carcinoma sample	Ala	8	Ser	
+1	1AUE	Met135Thr	A metastatic melanoma sample	Met	135	Thr	
+2	1AUE	Met1083Val	-	Met	1083	Val	
+3	1AUE	Ala1134Val	-	Ala	1134	Val	
+4	1AUE	Ser1178Phe	-	Ser	1178	Phe	
+5	1AUE	Met2011Val	An ovarian mucinous carcinoma sample	Met	2011	Val	
+6	1AUE	Ser2215Tyr	Focal cortical dysplasia 2 (FCORD2) [MIM:607341]	Ser	2215	Tyr	
+7	1AUE	Pro2476Leu	A glioblastoma multiforme sample	Pro	2476	Leu	
+8	1AUE	Leu2220Phe	-	Leu	2220	Phe	
+9	1AUE	Val2406Ala	-	Val	2406	Ala	
+10	1AUE	Glu1799Lys	Smith-Kingsmore syndrome (SKS) [MIM:616638]	Glu	1799	Lys	
+11	1AUE	Arg624His	Focal cortical dysplasia 2 (FCORD2) [MIM:607341]	Arg	624	His	
+12	1AUE	Asp1376Glu	-	Asp	1376	Glu	
+13	1AUE	Tyr1450Asp	Focal cortical dysplasia 2 (FCORD2) [MIM:607341]	Tyr	1450	Asp	
+14	1AUE	Trp1456Gly	Focal cortical dysplasia 2 (FCORD2) [MIM:607341]	Trp	1456	Gly	
+15	1AUE	Ala1459Asp	Focal cortical dysplasia 2 (FCORD2) [MIM:607341]	Ala	1459	Asp	
+16	1AUE	Ala1459Ser	Focal cortical dysplasia 2 (FCORD2) [MIM:607341]	Ala	1459	Ser	
+17	1AUE	Leu1460Pro	Focal cortical dysplasia 2 (FCORD2) [MIM:607341]	Leu	1460	Pro	
+18	1AUE	Cys1483Arg	Focal cortical dysplasia 2 (FCORD2) [MIM:607341]	Cys	1483	Arg	
+19	1AUE	Trp1490Arg	Smith-Kingsmore syndrome (SKS) [MIM:616638]	Trp	1490	Arg	
+20	1AUE	Met1595Ile	Smith-Kingsmore syndrome (SKS) [MIM:616638]	Met	1595	Ile	
+21	1AUE	Arg1709His	Focal cortical dysplasia 2 (FCORD2) [MIM:607341]	Arg	1709	His	
+22	1AUE	Ala1832Thr	Smith-Kingsmore syndrome (SKS) [MIM:616638]	Ala	1832	Thr	
+23	1AUE	Phe1888Cys	Smith-Kingsmore syndrome (SKS) [MIM:616638]	Phe	1888	Cys	
+24	1AUE	Thr1977Lys	Focal cortical dysplasia 2 (FCORD2) [MIM:607341]	Thr	1977	Lys	
+25	1AUE	Arg2193Cys	Focal cortical dysplasia 2 (FCORD2) [MIM:607341]	Arg	2193	Cys	
+26	1AUE	Ser2215Phe	Focal cortical dysplasia 2 (FCORD2) [MIM:607341]	Ser	2215	Phe	
+27	1AUE	Met2327Ile	Smith-Kingsmore syndrome (SKS) [MIM:616638]	Met	2327	Ile	
+28	1AUE	Leu2427Pro	Focal cortical dysplasia 2 (FCORD2) [MIM:607341]	Leu	2427	Pro	
+29	1AUE	Leu2427Gln	Focal cortical dysplasia 2 (FCORD2) [MIM:607341]	Leu	2427	Gln	
+30	1AUE	Ile2501Val	-	Ile	2501	Val	
+0	1AVZ	Ile445Phe	-	Ile	445	Phe	
+1	1AVZ	Val243Leu	A lung squamous cell carcinoma sample	Val	243	Leu	
+2	1AVZ	Gly410Arg	A metastatic melanoma sample	Gly	410	Arg	
+3	1AVZ	Asp506Glu	-	Asp	506	Glu	
+0	1AYE	Glu82Gly	-	Glu	82	Gly	
+0	1CUN	Ile1300Thr	-	Ile	1300	Thr	
+1	1CUN	Ser904Cys	A breast cancer sample	Ser	904	Cys	
+2	1CUN	Pro1017Ser	A breast cancer sample	Pro	1017	Ser	
+3	1CUN	Arg1794Trp	A breast cancer sample	Arg	1794	Trp	
+4	1CUN	Asp1918Asn	A breast cancer sample	Asp	1918	Asn	
+5	1CUN	Asn385Ser	-	Asn	385	Ser	
+0	1DWR	Glu55Lys	-	Glu	55	Lys	
+1	1DWR	Lys134Asn	-	Lys	134	Asn	
+2	1DWR	Arg140Gln	-	Arg	140	Gln	
+3	1DWR	Arg140Trp	-	Arg	140	Trp	
+0	1E41	Cys105Trp	Infections, recurrent, associated with encephalopathy, hepatic dysfunction and cardiovascular malformations (IEHDCM) [MIM:613759]	Cys	105	Trp	
+0	1EHB	His44Leu	Methemoglobinemia and ambiguous genitalia (METAG) [MIM:250790]	His	44	Leu	
+0	1EKG	Asp122Tyr	Friedreich ataxia (FRDA) [MIM:229300]	Asp	122	Tyr	
+1	1EKG	Gly130Val	Friedreich ataxia (FRDA) [MIM:229300]	Gly	130	Val	
+2	1EKG	Ile154Phe	Friedreich ataxia (FRDA) [MIM:229300]	Ile	154	Phe	
+3	1EKG	Trp155Arg	Friedreich ataxia (FRDA) [MIM:229300]	Trp	155	Arg	
+4	1EKG	Arg165Cys	Friedreich ataxia (FRDA) [MIM:229300]	Arg	165	Cys	
+5	1EKG	Leu182Phe	Friedreich ataxia (FRDA) [MIM:229300]	Leu	182	Phe	
+6	1EKG	Leu106Ser	Friedreich ataxia (FRDA) [MIM:229300]	Leu	106	Ser	
+7	1EKG	Leu198Arg	Friedreich ataxia (FRDA) [MIM:229300]	Leu	198	Arg	
+8	1EKG	Ser202Cys	-	Ser	202	Cys	
+0	1FEX	Lys324Glu	-	Lys	324	Glu	
+0	1FNF	Asp940Asn	A breast cancer sample	Asp	940	Asn	
+1	1FNF	Arg1120Pro	A breast cancer sample	Arg	1120	Pro	
+2	1FNF	Asp2471Asn	A colorectal cancer sample	Asp	2471	Asn	
+3	1FNF	Gln15Leu	-	Gln	15	Leu	
+4	1FNF	Tyr973Cys	Glomerulopathy with fibronectin deposits 2 (GFND2) [MIM:601894]	Tyr	973	Cys	
+5	1FNF	Trp1925Arg	Glomerulopathy with fibronectin deposits 2 (GFND2) [MIM:601894]	Trp	1925	Arg	
+6	1FNF	Leu1974Arg	Glomerulopathy with fibronectin deposits 2 (GFND2) [MIM:601894]	Leu	1974	Arg	
+7	1FNF	Ile2051Val	-	Ile	2051	Val	
+8	1FNF	Ser1558Arg	-	Ser	1558	Arg	
+9	1FNF	Ile2212Val	-	Ile	2212	Val	
+10	1FNF	Thr817Pro	-	Thr	817	Pro	
+11	1FNF	Val2261Ile	-	Val	2261	Ile	
+12	1FNF	Cys87Phe	Spondylometaphyseal dysplasia, corner fracture type (SMDCF) [MIM:184255]	Cys	87	Phe	
+13	1FNF	Cys123Arg	Spondylometaphyseal dysplasia, corner fracture type (SMDCF) [MIM:184255]	Cys	123	Arg	
+14	1FNF	Cys225Trp	Spondylometaphyseal dysplasia, corner fracture type (SMDCF) [MIM:184255]	Cys	225	Trp	
+15	1FNF	Tyr240Asp	Spondylometaphyseal dysplasia, corner fracture type (SMDCF) [MIM:184255]	Tyr	240	Asp	
+16	1FNF	Cys260Gly	Spondylometaphyseal dysplasia, corner fracture type (SMDCF) [MIM:184255]	Cys	260	Gly	
+0	1HRC	Met66Leu	-	Met	66	Leu	
+1	1HRC	Gly42Ser	Thrombocytopenia 4 (THC4) [MIM:612004]	Gly	42	Ser	
+2	1HRC	Lys56Arg	-	Lys	56	Arg	
+0	1I1B	Glu141Asn	-	Glu	141	Asn	
+0	1K8M	Phe276Cys	Maple syrup urine disease 2 (MSUD2) [MIM:248600]	Phe	276	Cys	
+1	1K8M	Ile98Met	Maple syrup urine disease 2 (MSUD2) [MIM:248600]	Ile	98	Met	
+2	1K8M	Gly384Ser	Maple syrup urine disease 2 (MSUD2) [MIM:248600]	Gly	384	Ser	
+0	1K9Q	Pro139Leu	-	Pro	139	Leu	
+1	1K9Q	Ser227Leu	-	Ser	227	Leu	
+2	1K9Q	Met330Val	-	Met	330	Val	
+3	1K9Q	Gly462Glu	-	Gly	462	Glu	
+0	1NFI	Thr489Ile	-	Thr	489	Ile	
+1	1NFI	Met506Val	-	Met	506	Val	
+2	1NFI	Thr566Ile	-	Thr	566	Ile	
+3	1NFI	Arg578Lys	-	Arg	578	Lys	
+4	1NFI	His711Gln	-	His	711	Gln	
+5	1NFI	Ala901Thr	-	Ala	901	Thr	
+0	1NFI	Ser32Ile	Ectodermal dysplasia and immunodeficiency 2 (EDAID2) [MIM:612132]	Ser	32	Ile	
+0	1NTI	Asp39Asn	-	Asp	39	Asn	
+1	1NTI	Met71Val	-	Met	71	Val	
+2	1NTI	Gly86Arg	-	Gly	86	Arg	
+0	1NYF	Ile445Phe	-	Ile	445	Phe	
+1	1NYF	Val243Leu	A lung squamous cell carcinoma sample	Val	243	Leu	
+2	1NYF	Gly410Arg	A metastatic melanoma sample	Gly	410	Arg	
+3	1NYF	Asp506Glu	-	Asp	506	Glu	
+0	1O6X	Glu82Gly	-	Glu	82	Gly	
+0	1PBA	Asp208Asn	-	Asp	208	Asn	
+0	1PCA	Ala208Thr	-	Ala	208	Thr	
+1	1PCA	His276Arg	-	His	276	Arg	
+0	1PKS	Met326Ile	-	Met	326	Ile	
+1	1PKS	Arg409Gln	-	Arg	409	Gln	
+2	1PKS	Glu451Lys	-	Glu	451	Lys	
+3	1PKS	Glu489Lys	SHORT syndrome (SHORTS) [MIM:269880]	Glu	489	Lys	
+4	1PKS	Arg649Trp	SHORT syndrome (SHORTS) [MIM:269880]	Arg	649	Trp	
+0	1PNJ	Met326Ile	-	Met	326	Ile	
+1	1PNJ	Arg409Gln	-	Arg	409	Gln	
+2	1PNJ	Glu451Lys	-	Glu	451	Lys	
+3	1PNJ	Glu489Lys	SHORT syndrome (SHORTS) [MIM:269880]	Glu	489	Lys	
+4	1PNJ	Arg649Trp	SHORT syndrome (SHORTS) [MIM:269880]	Arg	649	Trp	
+0	1RFA	Pro308Leu	-	Pro	308	Leu	
+1	1RFA	Arg256Ser	Noonan syndrome 5 (NS5) [MIM:611553]	Arg	256	Ser	
+2	1RFA	Ser257Leu	LEOPARD syndrome 2 (LPRD2) [MIM:611554]	Ser	257	Leu	
+3	1RFA	Ser257Leu	Noonan syndrome 5 (NS5) [MIM:611553]	Ser	257	Leu	
+4	1RFA	Ser259Phe	Noonan syndrome 5 (NS5) [MIM:611553]	Ser	259	Phe	
+5	1RFA	Thr260Ile	-	Thr	260	Ile	
+6	1RFA	Thr260Arg	Noonan syndrome 5 (NS5) [MIM:611553]	Thr	260	Arg	
+7	1RFA	Pro261Ala	Noonan syndrome 5 (NS5) [MIM:611553]	Pro	261	Ala	
+8	1RFA	Pro261Leu	Noonan syndrome 5 (NS5) [MIM:611553]	Pro	261	Leu	
+9	1RFA	Pro261Ser	Noonan syndrome 5 (NS5) [MIM:611553]	Pro	261	Ser	
+10	1RFA	Val263Ala	Noonan syndrome 5 (NS5) [MIM:611553]	Val	263	Ala	
+11	1RFA	Asp486Gly	Noonan syndrome 5 (NS5) [MIM:611553]	Asp	486	Gly	
+12	1RFA	Asp486Asn	Noonan syndrome 5 (NS5) [MIM:611553]	Asp	486	Asn	
+13	1RFA	Thr491Ile	Noonan syndrome 5 (NS5) [MIM:611553]	Thr	491	Ile	
+14	1RFA	Thr491Arg	Noonan syndrome 5 (NS5) [MIM:611553]	Thr	491	Arg	
+15	1RFA	Ser612Thr	Noonan syndrome 5 (NS5) [MIM:611553]	Ser	612	Thr	
+16	1RFA	Leu613Val	LEOPARD syndrome 2 (LPRD2) [MIM:611554]	Leu	613	Val	
+17	1RFA	Leu613Val	Noonan syndrome 5 (NS5) [MIM:611553]	Leu	613	Val	
+18	1RFA	Ser259Ala	An ovarian serous carcinoma sample	Ser	259	Ala	
+19	1RFA	Gln335His	A lung adenocarcinoma sample	Gln	335	His	
+20	1RFA	Ala237Thr	Cardiomyopathy, dilated 1NN (CMD1NN) [MIM:615916]	Ala	237	Thr	
+21	1RFA	Thr310Ala	Cardiomyopathy, dilated 1NN (CMD1NN) [MIM:615916]	Thr	310	Ala	
+22	1RFA	Pro332Ala	Cardiomyopathy, dilated 1NN (CMD1NN) [MIM:615916]	Pro	332	Ala	
+23	1RFA	Leu603Pro	Cardiomyopathy, dilated 1NN (CMD1NN) [MIM:615916]	Leu	603	Pro	
+24	1RFA	His626Arg	Cardiomyopathy, dilated 1NN (CMD1NN) [MIM:615916]	His	626	Arg	
+25	1RFA	Thr641Met	Cardiomyopathy, dilated 1NN (CMD1NN) [MIM:615916]	Thr	641	Met	
+0	1RG8	Gly21Glu	-	Gly	21	Glu	
+0	1SHF	Ile445Phe	-	Ile	445	Phe	
+1	1SHF	Val243Leu	A lung squamous cell carcinoma sample	Val	243	Leu	
+2	1SHF	Gly410Arg	A metastatic melanoma sample	Gly	410	Arg	
+3	1SHF	Asp506Glu	-	Asp	506	Glu	
+0	1SHG	Ile1300Thr	-	Ile	1300	Thr	
+1	1SHG	Ser904Cys	A breast cancer sample	Ser	904	Cys	
+2	1SHG	Pro1017Ser	A breast cancer sample	Pro	1017	Ser	
+3	1SHG	Arg1794Trp	A breast cancer sample	Arg	1794	Trp	
+4	1SHG	Asp1918Asn	A breast cancer sample	Asp	1918	Asn	
+5	1SHG	Asn385Ser	-	Asn	385	Ser	
+0	1SRL	Ala237Thr	-	Ala	237	Thr	
+1	1SRL	Leu176Phe	-	Leu	176	Phe	
+2	1SRL	Glu527Lys	Thrombocytopenia 6 (THC6) [MIM:616937]	Glu	527	Lys	
+0	1TEN	Glu2008Gln	-	Glu	2008	Gln	
+1	1TEN	Ala1781Thr	-	Ala	1781	Thr	
+2	1TEN	Gln539Arg	-	Gln	539	Arg	
+3	1TEN	Val605Ile	-	Val	605	Ile	
+4	1TEN	Gln680Arg	-	Gln	680	Arg	
+5	1TEN	Gly213Ser	-	Gly	213	Ser	
+6	1TEN	Asp850His	-	Asp	850	His	
+7	1TEN	Ile1677Leu	-	Ile	1677	Leu	
+8	1TEN	Val1773Met	Deafness, autosomal dominant, 56 (DFNA56) [MIM:615629]	Val	1773	Met	
+9	1TEN	Thr1796Ser	Deafness, autosomal dominant, 56 (DFNA56) [MIM:615629]	Thr	1796	Ser	
+0	1TIT	Arg279Trp	Myopathy, myofibrillar, 9, with early respiratory failure (MFM9) [MIM:603689]	Arg	279	Trp	
+1	1TIT	Thr4215Pro	-	Thr	4215	Pro	
+2	1TIT	Leu4283Phe	-	Leu	4283	Phe	
+3	1TIT	Val54Met	Cardiomyopathy, dilated 1G (CMD1G) [MIM:604145]	Val	54	Met	
+4	1TIT	Arg328Cys	-	Arg	328	Cys	
+5	1TIT	Arg740Leu	Cardiomyopathy, familial hypertrophic 9 (CMH9) [MIM:613765]	Arg	740	Leu	
+6	1TIT	Ala743Val	Cardiomyopathy, dilated 1G (CMD1G) [MIM:604145]	Ala	743	Val	
+7	1TIT	Trp976Arg	Cardiomyopathy, dilated 1G (CMD1G) [MIM:604145]	Trp	976	Arg	
+8	1TIT	Ser3799Tyr	Cardiomyopathy, dilated 1G (CMD1G) [MIM:604145]	Ser	3799	Tyr	
+9	1TIT	Arg4084Gln	-	Arg	4084	Gln	
+10	1TIT	Ser4465Asn	Cardiomyopathy, dilated 1G (CMD1G) [MIM:604145]	Ser	4465	Asn	
+11	1TIT	Arg32996Gln	Cardiomyopathy, dilated 1G (CMD1G) [MIM:604145]	Arg	32996	Gln	
+12	1TIT	Ile34306Asn	Tardive tibial muscular dystrophy (TMD) [MIM:600334]	Ile	34306	Asn	
+13	1TIT	Leu34315Pro	Tardive tibial muscular dystrophy (TMD) [MIM:600334]	Leu	34315	Pro	
+14	1TIT	Asp60Tyr	-	Asp	60	Tyr	
+15	1TIT	Val115Met	A metastatic melanoma sample	Val	115	Met	
+16	1TIT	Arg360Thr	-	Arg	360	Thr	
+17	1TIT	Val498Ile	-	Val	498	Ile	
+18	1TIT	Thr799Met	A colorectal adenocarcinoma sample	Thr	799	Met	
+19	1TIT	Thr811Ile	-	Thr	811	Ile	
+20	1TIT	Arg922His	-	Arg	922	His	
+21	1TIT	Glu937Asp	A gastric adenocarcinoma sample	Glu	937	Asp	
+22	1TIT	Ala1081Thr	-	Ala	1081	Thr	
+23	1TIT	Gly1137Arg	-	Gly	1137	Arg	
+24	1TIT	Lys1201Glu	-	Lys	1201	Glu	
+25	1TIT	Val1202Ala	-	Val	1202	Ala	
+26	1TIT	Ser1295Leu	-	Ser	1295	Leu	
+27	1TIT	Gly1345Asp	-	Gly	1345	Asp	
+28	1TIT	Ala1347Thr	A metastatic melanoma sample	Ala	1347	Thr	
+29	1TIT	Arg1350His	A gastric adenocarcinoma sample	Arg	1350	His	
+30	1TIT	Val1353Leu	-	Val	1353	Leu	
+31	1TIT	Ile1393Val	-	Ile	1393	Val	
+32	1TIT	Arg1416Cys	-	Arg	1416	Cys	
+33	1TIT	Arg1441Pro	-	Arg	1441	Pro	
+34	1TIT	Ile1544Val	-	Ile	1544	Val	
+35	1TIT	Arg1572Gln	-	Arg	1572	Gln	
+36	1TIT	Arg1658Gly	-	Arg	1658	Gly	
+37	1TIT	Arg1664Gln	An ovarian mucinous carcinoma sample	Arg	1664	Gln	
+38	1TIT	Gly1692Asp	A lung squamous cell carcinoma sample	Gly	1692	Asp	
+39	1TIT	Pro1744Leu	-	Pro	1744	Leu	
+40	1TIT	Ser1772Gly	-	Ser	1772	Gly	
+41	1TIT	Thr1907Ile	A colorectal adenocarcinoma sample	Thr	1907	Ile	
+42	1TIT	Arg1998His	-	Arg	1998	His	
+43	1TIT	Pro2107Leu	A colorectal adenocarcinoma sample	Pro	2107	Leu	
+44	1TIT	Ile2118Thr	-	Ile	2118	Thr	
+45	1TIT	Ala2164Thr	-	Ala	2164	Thr	
+46	1TIT	Asp2240Tyr	-	Asp	2240	Tyr	
+47	1TIT	Gly2392Ser	-	Gly	2392	Ser	
+48	1TIT	Leu2432Phe	A lung neuroendocrine carcinoma sample	Leu	2432	Phe	
+49	1TIT	Met2610Ile	-	Met	2610	Ile	
+50	1TIT	Ile2771Met	A breast infiltrating ductal carcinoma sample	Ile	2771	Met	
+51	1TIT	Val2823Phe	-	Val	2823	Phe	
+52	1TIT	Ser2831Asn	-	Ser	2831	Asn	
+53	1TIT	Val2930Ile	-	Val	2930	Ile	
+54	1TIT	Lys3154Arg	-	Lys	3154	Arg	
+55	1TIT	Gln3191Glu	-	Gln	3191	Glu	
+56	1TIT	Pro3238Leu	A bladder carcinoma sample	Pro	3238	Leu	
+57	1TIT	Val3250Gly	-	Val	3250	Gly	
+58	1TIT	Val3261Met	-	Val	3261	Met	
+59	1TIT	Arg3367Gln	-	Arg	3367	Gln	
+60	1TIT	Glu3482Lys	A metastatic melanoma sample	Glu	3482	Lys	
+61	1TIT	Pro3491Ser	-	Pro	3491	Ser	
+62	1TIT	Glu3570Lys	A breast pleomorphic lobular carcinoma sample	Glu	3570	Lys	
+63	1TIT	Leu3590Val	-	Leu	3590	Val	
+64	1TIT	Ile3762Val	-	Ile	3762	Val	
+65	1TIT	Ile3877Phe	-	Ile	3877	Phe	
+66	1TIT	Ile3965Leu	-	Ile	3965	Leu	
+67	1TIT	Gly4238Trp	-	Gly	4238	Trp	
+68	1TIT	Ile4291Thr	A colorectal adenocarcinoma sample	Ile	4291	Thr	
+69	1TIT	Gly4303Asp	-	Gly	4303	Asp	
+70	1TIT	Asp4427Glu	-	Asp	4427	Glu	
+71	1TIT	Gly12310Glu	-	Gly	12310	Glu	
+72	1TIT	His12383Arg	-	His	12383	Arg	
+73	1TIT	Val12469Ala	-	Val	12469	Ala	
+74	1TIT	Arg12642Cys	A gastric adenocarcinoma sample	Arg	12642	Cys	
+75	1TIT	Glu12657Lys	A Wilms tumor	Glu	12657	Lys	
+76	1TIT	Lys12679Glu	-	Lys	12679	Glu	
+77	1TIT	Ser12720Phe	A metastatic melanoma sample	Ser	12720	Phe	
+78	1TIT	Arg12798Cys	-	Arg	12798	Cys	
+79	1TIT	Glu13049Gly	-	Glu	13049	Gly	
+80	1TIT	Glu13083Lys	A metastatic melanoma sample	Glu	13083	Lys	
+81	1TIT	Arg13096Leu	-	Arg	13096	Leu	
+82	1TIT	Gln13099Arg	A lung small cell carcinoma sample	Gln	13099	Arg	
+83	1TIT	Val13297Ala	-	Val	13297	Ala	
+84	1TIT	Ile13399Met	-	Ile	13399	Met	
+85	1TIT	Ala13418Thr	-	Ala	13418	Thr	
+86	1TIT	Glu13428Val	-	Glu	13428	Val	
+87	1TIT	Ile13430Thr	-	Ile	13430	Thr	
+88	1TIT	Arg13434Lys	A breast pleomorphic lobular carcinoma sample	Arg	13434	Lys	
+89	1TIT	Asp13469Asn	-	Asp	13469	Asn	
+90	1TIT	Lys13495Asn	-	Lys	13495	Asn	
+91	1TIT	Asn13785Ser	A breast pleomorphic lobular carcinoma sample	Asn	13785	Ser	
+92	1TIT	Gln13870His	A lung small cell carcinoma sample	Gln	13870	His	
+93	1TIT	Val14109Ile	-	Val	14109	Ile	
+94	1TIT	Arg14131Gln	-	Arg	14131	Gln	
+95	1TIT	Pro14208Thr	-	Pro	14208	Thr	
+96	1TIT	Leu14728Val	A lung adenocarcinoma sample	Leu	14728	Val	
+97	1TIT	Ser14999Thr	-	Ser	14999	Thr	
+98	1TIT	Asn15021Thr	-	Asn	15021	Thr	
+99	1TIT	Ala15520Val	-	Ala	15520	Val	
+100	1TIT	Arg15555Ile	A colorectal adenocarcinoma sample	Arg	15555	Ile	
+101	1TIT	Arg15620Gln	-	Arg	15620	Gln	
+102	1TIT	Ser15629Ile	-	Ser	15629	Ile	
+103	1TIT	Tyr15635Cys	A gastric adenocarcinoma sample	Tyr	15635	Cys	
+104	1TIT	Arg15700Gln	-	Arg	15700	Gln	
+105	1TIT	Leu15705Pro	-	Leu	15705	Pro	
+106	1TIT	Ile15837Met	-	Ile	15837	Met	
+107	1TIT	Arg16058His	-	Arg	16058	His	
+108	1TIT	Lys16067Ile	-	Lys	16067	Ile	
+109	1TIT	Ile16090Thr	-	Ile	16090	Thr	
+110	1TIT	Arg16195His	A gastric adenocarcinoma sample	Arg	16195	His	
+111	1TIT	Arg16409Cys	-	Arg	16409	Cys	
+112	1TIT	Arg16424Pro	-	Arg	16424	Pro	
+113	1TIT	Ile16629Met	-	Ile	16629	Met	
+114	1TIT	Lys16877Arg	-	Lys	16877	Arg	
+115	1TIT	Asn17060Asp	-	Asn	17060	Asp	
+116	1TIT	Ile17637Val	-	Ile	17637	Val	
+117	1TIT	Arg17838His	-	Arg	17838	His	
+118	1TIT	Asp17866Asn	-	Asp	17866	Asn	
+119	1TIT	Gly17906Glu	A metastatic melanoma sample	Gly	17906	Glu	
+120	1TIT	Glu18094Ala	-	Glu	18094	Ala	
+121	1TIT	Gly18109Ser	-	Gly	18109	Ser	
+122	1TIT	Arg18164Thr	An ovarian serous carcinoma sample	Arg	18164	Thr	
+123	1TIT	Pro18221Leu	-	Pro	18221	Leu	
+124	1TIT	Ala18222Thr	-	Ala	18222	Thr	
+125	1TIT	Arg18726Gln	-	Arg	18726	Gln	
+126	1TIT	Val18835Ala	A breast infiltrating ductal carcinoma sample	Val	18835	Ala	
+127	1TIT	Arg18881Lys	A metastatic melanoma sample	Arg	18881	Lys	
+128	1TIT	Asn18939Ser	-	Asn	18939	Ser	
+129	1TIT	Arg19000Gln	-	Arg	19000	Gln	
+130	1TIT	Leu19060Gln	A lung large cell carcinoma sample	Leu	19060	Gln	
+131	1TIT	Arg19091Lys	A lung large cell carcinoma sample	Arg	19091	Lys	
+132	1TIT	Pro19224Ser	A colorectal adenocarcinoma sample	Pro	19224	Ser	
+133	1TIT	Thr19367Ile	-	Thr	19367	Ile	
+134	1TIT	Glu19392Lys	A lung neuroendocrine carcinoma sample	Glu	19392	Lys	
+135	1TIT	Ala19480Ser	A gastric adenocarcinoma sample	Ala	19480	Ser	
+136	1TIT	Asp19495Gly	-	Asp	19495	Gly	
+137	1TIT	Arg19665His	-	Arg	19665	His	
+138	1TIT	Thr19762Ile	-	Thr	19762	Ile	
+139	1TIT	Gly19947Arg	-	Gly	19947	Arg	
+140	1TIT	Val19956Met	-	Val	19956	Met	
+141	1TIT	Arg19992Gln	-	Arg	19992	Gln	
+142	1TIT	Arg20057Cys	-	Arg	20057	Cys	
+143	1TIT	Ser20075Leu	-	Ser	20075	Leu	
+144	1TIT	Thr20179Lys	-	Thr	20179	Lys	
+145	1TIT	Ala20198Thr	-	Ala	20198	Thr	
+146	1TIT	Ala20198Val	-	Ala	20198	Val	
+147	1TIT	Arg20331His	-	Arg	20331	His	
+148	1TIT	Ala20408Thr	A metastatic melanoma sample	Ala	20408	Thr	
+149	1TIT	Arg20564Lys	-	Arg	20564	Lys	
+150	1TIT	Val20718Ile	-	Val	20718	Ile	
+151	1TIT	Ser20726Pro	-	Ser	20726	Pro	
+152	1TIT	Thr20892Asn	-	Thr	20892	Asn	
+153	1TIT	Ser20894Arg	-	Ser	20894	Arg	
+154	1TIT	Asp21125Glu	-	Asp	21125	Glu	
+155	1TIT	Pro21403Ser	-	Pro	21403	Ser	
+156	1TIT	Arg21730Cys	-	Arg	21730	Cys	
+157	1TIT	Arg21747Gln	-	Arg	21747	Gln	
+158	1TIT	Cys21851Arg	A gastric adenocarcinoma sample	Cys	21851	Arg	
+159	1TIT	Gly21925Arg	-	Gly	21925	Arg	
+160	1TIT	Arg21995His	-	Arg	21995	His	
+161	1TIT	Ala22045Val	-	Ala	22045	Val	
+162	1TIT	Arg22149His	-	Arg	22149	His	
+163	1TIT	Val22160Ile	-	Val	22160	Ile	
+164	1TIT	Ile22261Thr	-	Ile	22261	Thr	
+165	1TIT	Lys22306Asn	-	Lys	22306	Asn	
+166	1TIT	Arg22357His	-	Arg	22357	His	
+167	1TIT	Leu22408Pro	-	Leu	22408	Pro	
+168	1TIT	Gln22537His	A gastric adenocarcinoma sample	Gln	22537	His	
+169	1TIT	Pro22584Leu	-	Pro	22584	Leu	
+170	1TIT	Leu22646Pro	A gastric adenocarcinoma sample	Leu	22646	Pro	
+171	1TIT	Thr22670Ala	-	Thr	22670	Ala	
+172	1TIT	Ala22770Asp	-	Ala	22770	Asp	
+173	1TIT	Ala22801Thr	A metastatic melanoma sample	Ala	22801	Thr	
+174	1TIT	Arg22823Trp	A metastatic melanoma sample	Arg	22823	Trp	
+175	1TIT	Glu22968Gln	-	Glu	22968	Gln	
+176	1TIT	Pro23074Leu	-	Pro	23074	Leu	
+177	1TIT	Leu23079Phe	A metastatic melanoma sample	Leu	23079	Phe	
+178	1TIT	Asp23282Asn	A breast infiltrating ductal carcinoma sample	Asp	23282	Asn	
+179	1TIT	His23303Tyr	A metastatic melanoma sample	His	23303	Tyr	
+180	1TIT	Arg23306Cys	-	Arg	23306	Cys	
+181	1TIT	Ala23515Ser	A lung squamous cell carcinoma sample	Ala	23515	Ser	
+182	1TIT	Glu23551Gln	A gastric adenocarcinoma sample	Glu	23551	Gln	
+183	1TIT	Ser23807Asn	-	Ser	23807	Asn	
+184	1TIT	Asp23872Asn	An ovarian serous carcinoma sample	Asp	23872	Asn	
+185	1TIT	Val23891Ala	-	Val	23891	Ala	
+186	1TIT	Tyr23933His	-	Tyr	23933	His	
+187	1TIT	Thr23939Met	-	Thr	23939	Met	
+188	1TIT	Phe23952Leu	A gastric adenocarcinoma sample	Phe	23952	Leu	
+189	1TIT	Ala24098Gly	-	Ala	24098	Gly	
+190	1TIT	Asn24119Ser	-	Asn	24119	Ser	
+191	1TIT	Val24133Ile	-	Val	24133	Ile	
+192	1TIT	Val24159Ala	Neck squamous cell carcinoma sample	Val	24159	Ala	
+193	1TIT	Thr24239Ala	-	Thr	24239	Ala	
+194	1TIT	Glu24265Lys	-	Glu	24265	Lys	
+195	1TIT	Ile24584Thr	-	Ile	24584	Thr	
+196	1TIT	Ile24781Thr	-	Ile	24781	Thr	
+197	1TIT	Arg24799His	-	Arg	24799	His	
+198	1TIT	Asp24954His	-	Asp	24954	His	
+199	1TIT	Thr24980Met	-	Thr	24980	Met	
+200	1TIT	Arg25659His	-	Arg	25659	His	
+201	1TIT	Ala25679Thr	-	Ala	25679	Thr	
+202	1TIT	Pro25720Ala	-	Pro	25720	Ala	
+203	1TIT	Thr25821Lys	-	Thr	25821	Lys	
+204	1TIT	Glu25859Lys	A metastatic melanoma sample	Glu	25859	Lys	
+205	1TIT	Asn25879Lys	-	Asn	25879	Lys	
+206	1TIT	Ala25923Val	-	Ala	25923	Val	
+207	1TIT	Val26045Ile	-	Val	26045	Ile	
+208	1TIT	Lys26059Glu	A lung small cell carcinoma sample	Lys	26059	Glu	
+209	1TIT	Ile26134Val	-	Ile	26134	Val	
+210	1TIT	Arg26477Cys	-	Arg	26477	Cys	
+211	1TIT	Asp26843Tyr	-	Asp	26843	Tyr	
+212	1TIT	Lys27346Arg	-	Lys	27346	Arg	
+213	1TIT	Arg27652Cys	-	Arg	27652	Cys	
+214	1TIT	Gly27728Val	-	Gly	27728	Val	
+215	1TIT	Phe27754Leu	-	Phe	27754	Leu	
+216	1TIT	Ile27755Thr	-	Ile	27755	Thr	
+217	1TIT	Ile27929Val	-	Ile	27929	Val	
+218	1TIT	Ile28132Leu	-	Ile	28132	Leu	
+219	1TIT	Arg28168Gln	-	Arg	28168	Gln	
+220	1TIT	Arg28538His	-	Arg	28538	His	
+221	1TIT	Ile28572Thr	-	Ile	28572	Thr	
+222	1TIT	Ala28948Thr	-	Ala	28948	Thr	
+223	1TIT	Ile28986Val	-	Ile	28986	Val	
+224	1TIT	Gly28993Glu	-	Gly	28993	Glu	
+225	1TIT	Leu28998Val	-	Leu	28998	Val	
+226	1TIT	Val29070Met	-	Val	29070	Met	
+227	1TIT	Ile29090Val	-	Ile	29090	Val	
+228	1TIT	Arg29419Cys	-	Arg	29419	Cys	
+229	1TIT	Leu29479Pro	-	Leu	29479	Pro	
+230	1TIT	Ser29880Leu	A colorectal adenocarcinoma sample	Ser	29880	Leu	
+231	1TIT	Asp29976Glu	-	Asp	29976	Glu	
+232	1TIT	Ser30042Gly	-	Ser	30042	Gly	
+233	1TIT	Arg30107Cys	-	Arg	30107	Cys	
+234	1TIT	Ser30125Phe	-	Ser	30125	Phe	
+235	1TIT	Leu30211Pro	-	Leu	30211	Pro	
+236	1TIT	Ile30412Thr	-	Ile	30412	Thr	
+237	1TIT	Thr30617Ser	A renal chromophobe cancer sample	Thr	30617	Ser	
+238	1TIT	Thr30674Ile	-	Thr	30674	Ile	
+239	1TIT	Val30809Ile	A gastric adenocarcinoma sample	Val	30809	Ile	
+240	1TIT	Phe30818Ile	-	Phe	30818	Ile	
+241	1TIT	Glu30825Lys	-	Glu	30825	Lys	
+242	1TIT	Ile30856Thr	-	Ile	30856	Thr	
+243	1TIT	Gly30887Asp	-	Gly	30887	Asp	
+244	1TIT	Gly30887Ser	-	Gly	30887	Ser	
+245	1TIT	Arg30897His	-	Arg	30897	His	
+246	1TIT	Arg30907His	-	Arg	30907	His	
+247	1TIT	Arg30946His	-	Arg	30946	His	
+248	1TIT	Ile31081Phe	-	Ile	31081	Phe	
+249	1TIT	Arg31107Cys	-	Arg	31107	Cys	
+250	1TIT	Ala31124Gly	-	Ala	31124	Gly	
+251	1TIT	Asn31156Ser	-	Asn	31156	Ser	
+252	1TIT	Pro31246Thr	-	Pro	31246	Thr	
+253	1TIT	Arg31330His	-	Arg	31330	His	
+254	1TIT	Cys31690Arg	-	Cys	31690	Arg	
+255	1TIT	Arg31724Gln	-	Arg	31724	Gln	
+256	1TIT	Val31725Ile	-	Val	31725	Ile	
+257	1TIT	Gly31732Ser	-	Gly	31732	Ser	
+258	1TIT	Val31886Ile	-	Val	31886	Ile	
+259	1TIT	Arg32097Cys	-	Arg	32097	Cys	
+260	1TIT	Thr32171Asn	A lung large cell carcinoma sample	Thr	32171	Asn	
+261	1TIT	Val32248Ile	-	Val	32248	Ile	
+262	1TIT	Gln32281His	-	Gln	32281	His	
+263	1TIT	Arg32323His	-	Arg	32323	His	
+264	1TIT	Arg32411Trp	A gastric adenocarcinoma sample	Arg	32411	Trp	
+265	1TIT	Ile32558Val	-	Ile	32558	Val	
+266	1TIT	Met32610Val	-	Met	32610	Val	
+267	1TIT	Gly32637Val	-	Gly	32637	Val	
+268	1TIT	Val32922Ala	-	Val	32922	Ala	
+269	1TIT	Leu32943Arg	A gastric adenocarcinoma sample	Leu	32943	Arg	
+270	1TIT	Arg32953His	-	Arg	32953	His	
+271	1TIT	Val33213Leu	-	Val	33213	Leu	
+272	1TIT	Arg33242Cys	A gastric adenocarcinoma sample	Arg	33242	Cys	
+273	1TIT	Thr33387Met	-	Thr	33387	Met	
+274	1TIT	Glu33419Asp	-	Glu	33419	Asp	
+275	1TIT	Val33536Met	-	Val	33536	Met	
+276	1TIT	Lys33568Gln	-	Lys	33568	Gln	
+277	1TIT	Glu33616Lys	-	Glu	33616	Lys	
+278	1TIT	Pro33620Leu	-	Pro	33620	Leu	
+279	1TIT	Glu33886Val	-	Glu	33886	Val	
+280	1TIT	Ile33899Thr	-	Ile	33899	Thr	
+281	1TIT	Leu33904Pro	A gastric adenocarcinoma sample	Leu	33904	Pro	
+282	1TIT	Thr33955Ile	-	Thr	33955	Ile	
+283	1TIT	Val34115Ala	-	Val	34115	Ala	
+284	1TIT	Ser1249Leu	-	Ser	1249	Leu	
+285	1TIT	Asn3026Ile	-	Asn	3026	Ile	
+286	1TIT	Ser3419Asn	-	Ser	3419	Asn	
+287	1TIT	Pro3637Ser	-	Pro	3637	Ser	
+288	1TIT	Ala8288Val	-	Ala	8288	Val	
+289	1TIT	Ile8474Thr	-	Ile	8474	Thr	
+290	1TIT	Val16575Met	-	Val	16575	Met	
+291	1TIT	Arg20359Lys	-	Arg	20359	Lys	
+292	1TIT	Ala24098Thr	-	Ala	24098	Thr	
+293	1TIT	Gly16046Val	-	Gly	16046	Val	
+294	1TIT	Glu32742Gln	-	Glu	32742	Gln	
+295	1TIT	Thr2963Pro	-	Thr	2963	Pro	
+296	1TIT	Arg14750Gln	-	Arg	14750	Gln	
+0	1TTG	Asp940Asn	A breast cancer sample	Asp	940	Asn	
+1	1TTG	Arg1120Pro	A breast cancer sample	Arg	1120	Pro	
+2	1TTG	Asp2471Asn	A colorectal cancer sample	Asp	2471	Asn	
+3	1TTG	Gln15Leu	-	Gln	15	Leu	
+4	1TTG	Tyr973Cys	Glomerulopathy with fibronectin deposits 2 (GFND2) [MIM:601894]	Tyr	973	Cys	
+5	1TTG	Trp1925Arg	Glomerulopathy with fibronectin deposits 2 (GFND2) [MIM:601894]	Trp	1925	Arg	
+6	1TTG	Leu1974Arg	Glomerulopathy with fibronectin deposits 2 (GFND2) [MIM:601894]	Leu	1974	Arg	
+7	1TTG	Ile2051Val	-	Ile	2051	Val	
+8	1TTG	Ser1558Arg	-	Ser	1558	Arg	
+9	1TTG	Ile2212Val	-	Ile	2212	Val	
+10	1TTG	Thr817Pro	-	Thr	817	Pro	
+11	1TTG	Val2261Ile	-	Val	2261	Ile	
+12	1TTG	Cys87Phe	Spondylometaphyseal dysplasia, corner fracture type (SMDCF) [MIM:184255]	Cys	87	Phe	
+13	1TTG	Cys123Arg	Spondylometaphyseal dysplasia, corner fracture type (SMDCF) [MIM:184255]	Cys	123	Arg	
+14	1TTG	Cys225Trp	Spondylometaphyseal dysplasia, corner fracture type (SMDCF) [MIM:184255]	Cys	225	Trp	
+15	1TTG	Tyr240Asp	Spondylometaphyseal dysplasia, corner fracture type (SMDCF) [MIM:184255]	Tyr	240	Asp	
+16	1TTG	Cys260Gly	Spondylometaphyseal dysplasia, corner fracture type (SMDCF) [MIM:184255]	Cys	260	Gly	
+0	1U4Q	Ile1300Thr	-	Ile	1300	Thr	
+1	1U4Q	Ser904Cys	A breast cancer sample	Ser	904	Cys	
+2	1U4Q	Pro1017Ser	A breast cancer sample	Pro	1017	Ser	
+3	1U4Q	Arg1794Trp	A breast cancer sample	Arg	1794	Trp	
+4	1U4Q	Asp1918Asn	A breast cancer sample	Asp	1918	Asn	
+5	1U4Q	Asn385Ser	-	Asn	385	Ser	
+0	1V9E	Lys18Glu	-	Lys	18	Glu	
+1	1V9E	Gln92Pro	Osteopetrosis, autosomal recessive 3 (OPTB3) [MIM:259730]	Gln	92	Pro	
+2	1V9E	His107Tyr	Osteopetrosis, autosomal recessive 3 (OPTB3) [MIM:259730]	His	107	Tyr	
+3	1V9E	Pro236His	-	Pro	236	His	
+4	1V9E	Asn252Asp	-	Asn	252	Asp	
+5	1V9E	His94Tyr	Osteopetrosis, autosomal recessive 3 (OPTB3) [MIM:259730]	His	94	Tyr	
+6	1V9E	Gly144Arg	Osteopetrosis, autosomal recessive 3 (OPTB3) [MIM:259730]	Gly	144	Arg	
+0	1VII	Lys254Arg	-	Lys	254	Arg	
+0	1YCC	Leu89Val	-	Leu	89	Val	
+1	1YCC	Met76Val	-	Met	76	Val	
+2	1YCC	Trp96Cys	Mitochondrial complex III deficiency, nuclear 6 (MC3DN6) [MIM:615453]	Trp	96	Cys	
+3	1YCC	Leu215Phe	Mitochondrial complex III deficiency, nuclear 6 (MC3DN6) [MIM:615453]	Leu	215	Phe	
+0	2A5E	Asp14Glu	A biliary tract tumor	Asp	14	Glu	
+1	2A5E	Leu16Pro	A biliary tract tumor	Leu	16	Pro	
+2	2A5E	Leu16Pro	A familial melanoma	Leu	16	Pro	
+3	2A5E	Ala20Pro	A lung tumor	Ala	20	Pro	
+4	2A5E	Ala20Pro	Melanoma	Ala	20	Pro	
+5	2A5E	Ala20Ser	A biliary tract tumor	Ala	20	Ser	
+6	2A5E	Gly23Asp	A melanoma	Gly	23	Asp	
+7	2A5E	Gly23Asp	A pancreas tumor	Gly	23	Asp	
+8	2A5E	Arg24Cys	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Arg	24	Cys	
+9	2A5E	Arg24Pro	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Arg	24	Pro	
+10	2A5E	Glu26Asp	A biliary tract tumor	Glu	26	Asp	
+11	2A5E	Leu32Pro	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Leu	32	Pro	
+12	2A5E	Glu33Asp	A biliary tract tumor	Glu	33	Asp	
+13	2A5E	Gly35Ala	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Gly	35	Ala	
+14	2A5E	Gly35Glu	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Gly	35	Glu	
+15	2A5E	Pro48Leu	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Pro	48	Leu	
+16	2A5E	Ile49Ser	A biliary tract tumor	Ile	49	Ser	
+17	2A5E	Ile49Thr	-	Ile	49	Thr	
+18	2A5E	Gln50Arg	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Gln	50	Arg	
+19	2A5E	Met53Ile	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Met	53	Ile	
+20	2A5E	Ser56Ile	-	Ser	56	Ile	
+21	2A5E	Ala57Val	Pancreas carcinoma	Ala	57	Val	
+22	2A5E	Val59Gly	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Val	59	Gly	
+23	2A5E	Ala60Thr	-	Ala	60	Thr	
+24	2A5E	Leu62Pro	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Leu	62	Pro	
+25	2A5E	His66Tyr	Non-small cell lung carcinoma	His	66	Tyr	
+26	2A5E	Ala68Leu	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Ala	68	Leu	
+27	2A5E	Ala68Thr	An esophagus tumor	Ala	68	Thr	
+28	2A5E	Ala68Val	-	Ala	68	Val	
+29	2A5E	Glu69Lys	A bladder tumor	Glu	69	Lys	
+30	2A5E	Glu69Val	A lung tumor	Glu	69	Val	
+31	2A5E	Asn71Lys	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Asn	71	Lys	
+32	2A5E	Asn71Ser	-	Asn	71	Ser	
+33	2A5E	Cys72Gly	An esophagus tumor	Cys	72	Gly	
+34	2A5E	Asp74Asn	A bladder tumor	Asp	74	Asn	
+35	2A5E	Asp74Val	A biliary tract tumor	Asp	74	Val	
+36	2A5E	Arg80Leu	Neck tumor	Arg	80	Leu	
+37	2A5E	Pro81Leu	Some patients with melanoma	Pro	81	Leu	
+38	2A5E	His83Tyr	A pancreas tumor	His	83	Tyr	
+39	2A5E	His83Asn	A lung tumor	His	83	Asn	
+40	2A5E	Asp84Glu	A bladder tumor	Asp	84	Glu	
+41	2A5E	Asp84His	Non-small cell lung carcinoma	Asp	84	His	
+42	2A5E	Asp84Asn	An esophagus tumor	Asp	84	Asn	
+43	2A5E	Asp84Tyr	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Asp	84	Tyr	
+44	2A5E	Ala85Thr	-	Ala	85	Thr	
+45	2A5E	Arg87Pro	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Arg	87	Pro	
+46	2A5E	Glu88Asp	A biliary tract tumor	Glu	88	Asp	
+47	2A5E	Gly89Asp	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Gly	89	Asp	
+48	2A5E	Gly89Ser	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Gly	89	Ser	
+49	2A5E	Thr93Ala	Non-small cell lung carcinoma	Thr	93	Ala	
+50	2A5E	Val95Ala	Non-small cell lung carcinoma	Val	95	Ala	
+51	2A5E	Leu97Arg	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Leu	97	Arg	
+52	2A5E	His98Pro	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	His	98	Pro	
+53	2A5E	His98Gln	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	His	98	Gln	
+54	2A5E	Arg99Pro	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Arg	99	Pro	
+55	2A5E	Arg99Gln	Non-small cell lung carcinoma	Arg	99	Gln	
+56	2A5E	Ala100Leu	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Ala	100	Leu	
+57	2A5E	Ala100Pro	-	Ala	100	Pro	
+58	2A5E	Gly101Trp	Familial atypical multiple mole melanoma-pancreatic carcinoma syndrome (FAMMMPC) [MIM:606719]	Gly	101	Trp	
+59	2A5E	Gly101Trp	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Gly	101	Trp	
+60	2A5E	Arg107Cys	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Arg	107	Cys	
+61	2A5E	Arg107His	-	Arg	107	His	
+62	2A5E	Asp108Tyr	Neck tumor	Asp	108	Tyr	
+63	2A5E	Asp108His	A bladder tumor	Asp	108	His	
+64	2A5E	Pro114Leu	Non-small cell lung carcinoma	Pro	114	Leu	
+65	2A5E	Leu117Met	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Leu	117	Met	
+66	2A5E	Ala118Thr	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Ala	118	Thr	
+67	2A5E	Glu119Gln	A biliary tract tumor	Glu	119	Gln	
+68	2A5E	Glu120Ala	Non-small cell lung carcinoma	Glu	120	Ala	
+69	2A5E	Glu120Lys	Non-small cell lung carcinoma	Glu	120	Lys	
+70	2A5E	Gly122Ser	A biliary tract tumor	Gly	122	Ser	
+71	2A5E	His123Gln	Leukemia	His	123	Gln	
+72	2A5E	Arg124His	An esophagus tumor	Arg	124	His	
+73	2A5E	Val126Asp	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Val	126	Asp	
+74	2A5E	Ala127Ser	Squamous cell carcinoma	Ala	127	Ser	
+75	2A5E	Ala132Pro	Non-small cell lung carcinoma	Ala	132	Pro	
+76	2A5E	Ala134Val	Non-small cell lung carcinoma	Ala	134	Val	
+77	2A5E	His142Tyr	Non-small cell lung carcinoma	His	142	Tyr	
+78	2A5E	Arg144Cys	Squamous cell carcinoma	Arg	144	Cys	
+79	2A5E	Ala148Thr	-	Ala	148	Thr	
+80	2A5E	Gly150Val	Non-small cell lung carcinoma	Gly	150	Val	
+81	2A5E	Arg87Trp	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Arg	87	Trp	
+82	2A5E	Ala102Glu	-	Ala	102	Glu	
+83	2A5E	Leu94Gln	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Leu	94	Gln	
+84	2A5E	Gly122Arg	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Gly	122	Arg	
+85	2A5E	Ala60Val	Melanoma	Ala	60	Val	
+86	2A5E	His83Gln	-	His	83	Gln	
+87	2A5E	Arg99Trp	-	Arg	99	Trp	
+88	2A5E	Ala102Thr	-	Ala	102	Thr	
+89	2A5E	Arg124Cys	-	Arg	124	Cys	
+90	2A5E	Arg24Gln	-	Arg	24	Gln	
+91	2A5E	Gly35Val	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Gly	35	Val	
+92	2A5E	Gly67Arg	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Gly	67	Arg	
+93	2A5E	Glu69Gly	-	Glu	69	Gly	
+94	2A5E	Asp74Tyr	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Asp	74	Tyr	
+95	2A5E	Thr77Pro	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Thr	77	Pro	
+96	2A5E	Arg80Pro	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Arg	80	Pro	
+97	2A5E	Pro81Thr	Melanoma, cutaneous malignant 2 (CMM2) [MIM:155601]	Pro	81	Thr	
+98	2A5E	Pro114Ser	-	Pro	114	Ser	
+99	2A5E	Pro17Ser	-	Pro	17	Ser	
+100	2A5E	Gly106Arg	-	Gly	106	Arg	
+101	2A5E	Pro113Leu	-	Pro	113	Leu	
+102	2A5E	Gly116Asp	-	Gly	116	Asp	
+0	2ABD	Asp39Asn	-	Asp	39	Asn	
+1	2ABD	Met71Val	-	Met	71	Val	
+2	2ABD	Gly86Arg	-	Gly	86	Arg	
+0	2BKF	His923Arg	-	His	923	Arg	
+0	2JMC	Ile1300Thr	-	Ile	1300	Thr	
+1	2JMC	Ser904Cys	A breast cancer sample	Ser	904	Cys	
+2	2JMC	Pro1017Ser	A breast cancer sample	Pro	1017	Ser	
+3	2JMC	Arg1794Trp	A breast cancer sample	Arg	1794	Trp	
+4	2JMC	Asp1918Asn	A breast cancer sample	Asp	1918	Asn	
+5	2JMC	Asn385Ser	-	Asn	385	Ser	
+0	2KLL	Ile263Met	-	Ile	263	Met	
+0	2VIK	Lys254Arg	-	Lys	254	Arg	
+0	2VIL	Lys254Arg	-	Lys	254	Arg	
+0	2X7Z	Lys140Arg	-	Lys	140	Arg	
+1	2X7Z	Arg278Gln	-	Arg	278	Gln	
+2	2X7Z	Pro899Leu	-	Pro	899	Leu	
+0	5L8I	Arg33His	-	Arg	33	His	
+1	5L8I	Ser55Tyr	-	Ser	55	Tyr	
+2	5L8I	Thr79Met	-	Thr	79	Met	

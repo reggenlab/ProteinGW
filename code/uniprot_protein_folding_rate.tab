@@ -1,0 +1,145 @@
+yourlist:M202103258471C63D39733769F8E060B506551E121A101CL	Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+1A6N	P02185	MYG_PHYMC	reviewed	Myoglobin	MB	Physeter macrocephalus (Sperm whale) (Physeter catodon)	154
+1ADW	P80401	AZUP_PARPN	reviewed	Pseudoazurin	pazS	Paracoccus pantotrophus (Thiosphaera pantotropha)	145
+1ARR	P03050	RARC_BPP22	reviewed	Transcriptional repressor arc	arc	Salmonella phage P22 (Bacteriophage P22)	53
+1AU7	P10037	PIT1_RAT	reviewed	Pituitary-specific positive transcription factor 1 (PIT-1) (Growth hormone factor 1) (GHF-1)	Pou1f1 Ghf-1 Pit-1 Pit1	Rattus norvegicus (Rat)	291
+1AUE	P42345	MTOR_HUMAN	reviewed	Serine/threonine-protein kinase mTOR (EC 2.7.11.1) (FK506-binding protein 12-rapamycin complex-associated protein 1) (FKBP12-rapamycin complex-associated protein) (Mammalian target of rapamycin) (mTOR) (Mechanistic target of rapamycin) (Rapamycin and FKBP12 target 1) (Rapamycin target protein 1)	MTOR FRAP FRAP1 FRAP2 RAFT1 RAPT1	Homo sapiens (Human)	2549
+1AVZ	P03406	NEF_HV1BR	reviewed	Protein Nef (3'ORF) (Negative factor) (F-protein) [Cleaved into: C-terminal core protein]	nef	Human immunodeficiency virus type 1 group M subtype B (isolate BRU/LAI) (HIV-1)	206
+1AYI	Q03708	IMM7_ECOLX	reviewed	Colicin-E7 immunity protein (ImmE7) (Microcin-E7 immunity protein)	imm ceiE7	Escherichia coli	87
+1B9C	P42212	GFP_AEQVI	reviewed	Green fluorescent protein	GFP	Aequorea victoria (Jellyfish)	238
+1BA5	P54274	TERF1_HUMAN	reviewed	Telomeric repeat-binding factor 1 (NIMA-interacting protein 2) (TTAGGG repeat-binding factor 1) (Telomeric protein Pin2/TRF1)	TERF1 PIN2 TRBF1 TRF TRF1	Homo sapiens (Human)	439
+1CBI	P62965	RABP1_MOUSE	reviewed	Cellular retinoic acid-binding protein 1 (Cellular retinoic acid-binding protein I) (CRABP-I)	Crabp1	Mus musculus (Mouse)	137
+1DIV	P02417	RL9_GEOSE	reviewed	50S ribosomal protein L9 (BL17)	rplI	Geobacillus stearothermophilus (Bacillus stearothermophilus)	149
+1DKT	P61024	CKS1_HUMAN	reviewed	Cyclin-dependent kinases regulatory subunit 1 (CKS-1)	CKS1B CKS1 PNAS-143 PNAS-16	Homo sapiens (Human)	79
+1DWR	P68082	MYG_HORSE	reviewed	Myoglobin	MB	Equus caballus (Horse)	154
+1E0G	P0AEZ7	MLTD_ECOLI	reviewed	Membrane-bound lytic murein transglycosylase D (EC 4.2.2.n1) (Murein hydrolase D) (Regulatory protein DniR)	mltD dniR yafG b0211 JW5018	Escherichia coli (strain K12)	452
+1E0L	Q8CGF7	TCRG1_MOUSE	reviewed	Transcription elongation regulator 1 (Formin-binding protein 28) (FBP 28) (TATA box-binding protein-associated factor 2S) (Transcription factor CA150) (p144)	Tcerg1 Taf2s	Mus musculus (Mouse)	1100
+1E41	Q13158	FADD_HUMAN	reviewed	FAS-associated death domain protein (FAS-associating death domain-containing protein) (Growth-inhibiting gene 3 protein) (Mediator of receptor induced toxicity) (Protein FADD)	FADD MORT1 GIG3	Homo sapiens (Human)	208
+1EHB	P00171	CYB5_BOVIN	reviewed	Cytochrome b5	CYB5A CYB5	Bos taurus (Bovine)	134
+1EKG	Q16595	FRDA_HUMAN	reviewed	Frataxin, mitochondrial (EC 1.16.3.1) (Friedreich ataxia protein) (Fxn) [Cleaved into: Frataxin intermediate form (i-FXN); Frataxin(56-210) (m56-FXN); Frataxin(78-210) (d-FXN) (m78-FXN); Frataxin mature form (Frataxin(81-210)) (m81-FXN)]	FXN FRDA X25	Homo sapiens (Human)	210
+1FA3	P02881	MONA_DIOCU	reviewed	Monellin chain A (Monellin chain I)		Dioscoreophyllum cumminsii (Serendipity berry) (Rhopalandria cumminsii)	45
+1FA3	P02882	MONB_DIOCU	reviewed	Monellin chain B (Monellin chain II)		Dioscoreophyllum cumminsii (Serendipity berry) (Rhopalandria cumminsii)	50
+1FEX	Q9NYB0	TE2IP_HUMAN	reviewed	Telomeric repeat-binding factor 2-interacting protein 1 (TERF2-interacting telomeric protein 1) (TRF2-interacting telomeric protein 1) (Dopamine receptor-interacting protein 5) (Repressor/activator protein 1 homolog) (RAP1 homolog) (hRap1)	TERF2IP DRIP5 RAP1 PP8000	Homo sapiens (Human)	399
+1FGA	P09038	FGF2_HUMAN	reviewed	Fibroblast growth factor 2 (FGF-2) (Basic fibroblast growth factor) (bFGF) (Heparin-binding growth factor 2) (HBGF-2)	FGF2 FGFB	Homo sapiens (Human)	288
+1FTG	P0A3E0	FLAV_NOSSO	reviewed	Flavodoxin	isiB	Nostoc sp. (strain ATCC 29151 / PCC 7119) (Anabaena sp.)	170
+1GM1	Q64512	PTN13_MOUSE	reviewed	Tyrosine-protein phosphatase non-receptor type 13 (EC 3.1.3.48) (PTP36) (Protein tyrosine phosphatase DPZPTP) (Protein tyrosine phosphatase PTP-BL) (Protein-tyrosine phosphatase RIP)	Ptpn13 Ptp14	Mus musculus (Mouse)	2453
+1GXT	P30131	HYPF_ECOLI	reviewed	Carbamoyltransferase HypF (EC 6.2.-.-) (Carbamoyl phosphate-converting enzyme HypF) ([NiFe]-hydrogenase maturation factor HypF) (Hydrogenase maturation protein HypF)	hypF hydA b2712 JW5433	Escherichia coli (strain K12)	750
+1HCD	P13231	HATA_DICDI	reviewed	Hisactophilin-1 (Histidine-rich actin-binding protein 1) (HS I)	hatA abpH DDB_G0282141	Dictyostelium discoideum (Slime mold)	118
+1HNG	P08921	CD2_RAT	reviewed	T-cell surface antigen CD2 (LFA-2) (LFA-3 receptor) (OX-34 antigen) (T-cell surface antigen T11/Leu-5) (CD antigen CD2)	Cd2	Rattus norvegicus (Rat)	344
+1HRH	P03366	POL_HV1B1	reviewed	Gag-Pol polyprotein (Pr160Gag-Pol) [Cleaved into: Matrix protein p17 (MA); Capsid protein p24 (CA); Spacer peptide 1 (SP1) (p2); Nucleocapsid protein p7 (NC); Transframe peptide (TF); p6-pol (p6*); Protease (EC 3.4.23.16) (PR) (Retropepsin); Reverse transcriptase/ribonuclease H (EC 2.7.7.49) (EC 2.7.7.7) (EC 3.1.26.13) (Exoribonuclease H) (EC 3.1.13.2) (p66 RT); p51 RT; p15; Integrase (IN) (EC 2.7.7.-) (EC 3.1.-.-)]	gag-pol	Human immunodeficiency virus type 1 group M subtype B (isolate BH10) (HIV-1)	1447
+1I1B	P01584	IL1B_HUMAN	reviewed	Interleukin-1 beta (IL-1 beta) (Catabolin)	IL1B IL1F2	Homo sapiens (Human)	269
+1IDY	P06876	MYB_MOUSE	reviewed	Transcriptional activator Myb (Proto-oncogene c-Myb)	Myb	Mus musculus (Mouse)	636
+1IFC	P02693	FABPI_RAT	reviewed	Fatty acid-binding protein, intestinal (Fatty acid-binding protein 2) (Intestinal-type fatty acid-binding protein) (I-FABP)	Fabp2 Fabpi	Rattus norvegicus (Rat)	132
+1IGS	Q06121	TRPC_SACS2	reviewed	Indole-3-glycerol phosphate synthase (IGPS) (EC 4.1.1.48)	trpC SSO0895	Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) (Sulfolobus solfataricus)	248
+1IO2	O74035	RNH2_THEKO	reviewed	Ribonuclease HII (RNase HII) (EC 3.1.26.4)	rnhB TK0805	Thermococcus kodakarensis (strain ATCC BAA-918 / JCM 12380 / KOD1) (Pyrococcus kodakaraensis (strain KOD1))	228
+1J5U	Q9X0H1	ARCH_THEMA	reviewed	Protein archease	TM_1083	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	124
+1JO8	P15891	ABP1_YEAST	reviewed	Actin-binding protein	ABP1 YCR088W YCR88W	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	592
+1K0S	Q56311	CHEW_THEMA	reviewed	Chemotaxis protein CheW	cheW TM_0701	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	151
+1K85	P20533	CHIA1_BACCI	reviewed	Chitinase A1 (EC 3.2.1.14)	chiA1	Bacillus circulans	699
+1K8M	P11182	ODB2_HUMAN	reviewed	Lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial (EC 2.3.1.168) (52 kDa mitochondrial autoantigen of primary biliary cirrhosis) (Branched chain 2-oxo-acid dehydrogenase complex component E2) (BCOADC-E2) (Branched-chain alpha-keto acid dehydrogenase complex component E2) (BCKAD-E2) (BCKADE2) (Dihydrolipoamide acetyltransferase component of branched-chain alpha-keto acid dehydrogenase complex) (Dihydrolipoamide branched chain transacylase) (Dihydrolipoyllysine-residue (2-methylpropanoyl)transferase)	DBT BCATE2	Homo sapiens (Human)	482
+1K9Q	P46937	YAP1_HUMAN	reviewed	Transcriptional coactivator YAP1 (Yes-associated protein 1) (Protein yorkie homolog) (Yes-associated protein YAP65 homolog)	YAP1 YAP65	Homo sapiens (Human)	504
+1KDX	P15337	CREB1_RAT	reviewed	Cyclic AMP-responsive element-binding protein 1 (CREB-1) (cAMP-responsive element-binding protein 1)	Creb1 Creb-1	Rattus norvegicus (Rat)	327
+1KDX	P45481	CBP_MOUSE	reviewed	Histone lysine acetyltransferase CREBBP (EC 2.3.1.48) (Protein-lysine acetyltransferase CREBBP) (EC 2.3.1.-)	Crebbp Cbp	Mus musculus (Mouse)	2441
+1L63	P00720	ENLYS_BPT4	reviewed	Endolysin (EC 3.2.1.17) (Lysis protein) (Lysozyme) (Muramidase)	E	Enterobacteria phage T4 (Bacteriophage T4)	164
+1L8W	O06878	O06878_BORBG	unreviewed	Variable large protein	vlsE	Borrelia burgdorferi (Lyme disease spirochete) (Borreliella burgdorferi)	356
+1LMB	P03034	RPC1_LAMBD	reviewed	Repressor protein cI	cI lambdap88	Escherichia phage lambda (Bacteriophage lambda)	237
+1M9S	P0DQD3	INLB_LISMG	reviewed	Internalin B (InlB) (Invasion protein InlB)	inlB	Listeria monocytogenes serotype 1/2a (strain EGD / Mackaness)	630
+1N88	Q9RA57	RL23_THETH	reviewed	50S ribosomal protein L23 (L*23)	rplW	Thermus thermophilus	96
+1NFI	P19838	NFKB1_HUMAN	reviewed	Nuclear factor NF-kappa-B p105 subunit (DNA-binding factor KBF1) (EBP-1) (Nuclear factor of kappa light polypeptide gene enhancer in B-cells 1) [Cleaved into: Nuclear factor NF-kappa-B p50 subunit]	NFKB1	Homo sapiens (Human)	968
+1NFI	P25963	IKBA_HUMAN	reviewed	NF-kappa-B inhibitor alpha (I-kappa-B-alpha) (IkB-alpha) (IkappaBalpha) (Major histocompatibility complex enhancer-binding protein MAD3)	NFKBIA IKBA MAD3 NFKBI	Homo sapiens (Human)	317
+1NFI	Q04206	TF65_HUMAN	reviewed	Transcription factor p65 (Nuclear factor NF-kappa-B p65 subunit) (Nuclear factor of kappa light polypeptide gene enhancer in B-cells 3)	RELA NFKB3	Homo sapiens (Human)	551
+1OKS	P03422	PHOSP_MEASE	reviewed	Phosphoprotein (Protein P)	P/V	Measles virus (strain Edmonston) (MeV) (Subacute sclerose panencephalitis virus)	507
+1OPA	P06768	RET2_RAT	reviewed	Retinol-binding protein 2 (Cellular retinol-binding protein II) (CRBP-II)	Rbp2 Crbpii	Rattus norvegicus (Rat)	134
+1PHP	P18912	PGK_GEOSE	reviewed	Phosphoglycerate kinase (EC 2.7.2.3)	pgk	Geobacillus stearothermophilus (Bacillus stearothermophilus)	394
+1PIN	Q13526	PIN1_HUMAN	reviewed	Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1 (EC 5.2.1.8) (Peptidyl-prolyl cis-trans isomerase Pin1) (PPIase Pin1) (Rotamase Pin1)	PIN1	Homo sapiens (Human)	163
+1PNJ	P23727	P85A_BOVIN	reviewed	Phosphatidylinositol 3-kinase regulatory subunit alpha (PI3-kinase regulatory subunit alpha) (PI3K regulatory subunit alpha) (PtdIns-3-kinase regulatory subunit alpha) (Phosphatidylinositol 3-kinase 85 kDa regulatory subunit alpha) (PI3-kinase subunit p85-alpha) (PtdIns-3-kinase regulatory subunit p85-alpha)	PIK3R1	Bos taurus (Bovine)	724
+1PRB	Q51911	PAB_FINMA	reviewed	Peptostreptococcal albumin-binding protein	pab	Finegoldia magna (Peptostreptococcus magnus)	387
+1PRS	P02966	DESS_MYXXA	reviewed	Development-specific protein S (Spore coat protein S)	tps	Myxococcus xanthus	173
+1PUC	P08463	CKS1_SCHPO	reviewed	Cyclin-dependent kinases regulatory subunit (P13)	suc1 SPBC1734.14c	Schizosaccharomyces pombe (strain 972 / ATCC 24843) (Fission yeast)	113
+1QAU	P29476	NOS1_RAT	reviewed	Nitric oxide synthase, brain (EC 1.14.13.39) (BNOS) (Constitutive NOS) (NC-NOS) (NOS type I) (Neuronal NOS) (N-NOS) (nNOS) (Peptidyl-cysteine S-nitrosylase NOS1)	Nos1 Bnos	Rattus norvegicus (Rat)	1429
+1QTU	P56278	MTCP1_HUMAN	reviewed	Protein p13 MTCP-1 (p13MTCP1) (Mature T-cell proliferation-1 type B1) (MTCP-1 type B1)	MTCP1 C6.1B	Homo sapiens (Human)	107
+1RA9	P0ABQ4	DYR_ECOLI	reviewed	Dihydrofolate reductase (EC 1.5.1.3)	folA tmrA b0048 JW0047	Escherichia coli (strain K12)	159
+1RFA	P04049	RAF1_HUMAN	reviewed	RAF proto-oncogene serine/threonine-protein kinase (EC 2.7.11.1) (Proto-oncogene c-RAF) (cRaf) (Raf-1)	RAF1 RAF	Homo sapiens (Human)	648
+1RG8	P05230	FGF1_HUMAN	reviewed	Fibroblast growth factor 1 (FGF-1) (Acidic fibroblast growth factor) (aFGF) (Endothelial cell growth factor) (ECGF) (Heparin-binding growth factor 1) (HBGF-1)	FGF1 FGFA	Homo sapiens (Human)	155
+1RIS	P23370	RS6_THETH	reviewed	30S ribosomal protein S6 (TS9)	rpsF rps6	Thermus thermophilus	101
+1RYK	P68206	YJBJ_ECOLI	reviewed	UPF0337 protein YjbJ	yjbJ b4045 JW4005	Escherichia coli (strain K12)	69
+1SPR	P00524	SRC_RSVSA	reviewed	Tyrosine-protein kinase transforming protein Src (EC 2.7.10.2) (pp60v-src) (p60-Src) (v-Src)	V-SRC	Avian leukosis virus RSA (RSV-SRA) (Rous sarcoma virus (strain Schmidt-Ruppin A))	526
+1SRL	P00523	SRC_CHICK	reviewed	Proto-oncogene tyrosine-protein kinase Src (EC 2.7.10.2) (Proto-oncogene c-Src) (pp60c-src) (p60-Src)	SRC	Gallus gallus (Chicken)	533
+1ST7	P31787	ACBP_YEAST	reviewed	Acyl-CoA-binding protein (ACBP)	ACB1 ACB YGR037C	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	87
+1TEN	P24821	TENA_HUMAN	reviewed	Tenascin (TN) (Cytotactin) (GMEM) (GP 150-225) (Glioma-associated-extracellular matrix antigen) (Hexabrachion) (JI) (Myotendinous antigen) (Neuronectin) (Tenascin-C) (TN-C)	TNC HXB	Homo sapiens (Human)	2201
+1THF	Q9X0C6	HIS6_THEMA	reviewed	Imidazole glycerol phosphate synthase subunit HisF (EC 4.3.2.10) (IGP synthase cyclase subunit) (IGP synthase subunit HisF) (ImGP synthase subunit HisF) (IGPS subunit HisF)	hisF TM_1036	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	253
+1TP3	P31016	DLG4_RAT	reviewed	Disks large homolog 4 (Postsynaptic density protein 95) (PSD-95) (Synapse-associated protein 90) (SAP-90) (SAP90)	Dlg4 Dlgh4 Psd95	Rattus norvegicus (Rat)	724
+1FNF,1TTG	P02751	FINC_HUMAN	reviewed	Fibronectin (FN) (Cold-insoluble globulin) (CIG) [Cleaved into: Anastellin; Ugl-Y1; Ugl-Y2; Ugl-Y3]	FN1 FN	Homo sapiens (Human)	2477
+1UCH	P15374	UCHL3_HUMAN	reviewed	Ubiquitin carboxyl-terminal hydrolase isozyme L3 (UCH-L3) (EC 3.4.19.12) (Ubiquitin thioesterase L3)	UCHL3	Homo sapiens (Human)	230
+1UZC	O75400	PR40A_HUMAN	reviewed	Pre-mRNA-processing factor 40 homolog A (Fas ligand-associated factor 1) (Formin-binding protein 11) (Formin-binding protein 3) (Huntingtin yeast partner A) (Huntingtin-interacting protein 10) (HIP-10) (Huntingtin-interacting protein A) (Renal carcinoma antigen NY-REN-6)	PRPF40A FBP11 FLAF1 FNBP3 HIP10 HYPA HSPC225	Homo sapiens (Human)	957
+1V9E	P00921	CAH2_BOVIN	reviewed	Carbonic anhydrase 2 (EC 4.2.1.1) (Carbonate dehydratase II) (Carbonic anhydrase II) (CA-II)	CA2	Bos taurus (Bovine)	260
+1W4J	Q8ZUR6	Q8ZUR6_PYRAE	unreviewed	Pyruvate dehydrogenase E2 (Dihydrolipoamide acetyltransferase)	PAE2648	Pyrobaculum aerophilum (strain ATCC 51768 / IM2 / DSM 7523 / JCM 9630 / NBRC 100827)	383
+1WQ5	P0A877	TRPA_ECOLI	reviewed	Tryptophan synthase alpha chain (EC 4.2.1.20)	trpA b1260 JW1252	Escherichia coli (strain K12)	268
+2A5E	P42771	CDN2A_HUMAN	reviewed	Cyclin-dependent kinase inhibitor 2A (Cyclin-dependent kinase 4 inhibitor A) (CDK4I) (Multiple tumor suppressor 1) (MTS-1) (p16-INK4a) (p16-INK4) (p16INK4A)	CDKN2A CDKN2 MTS1	Homo sapiens (Human)	156
+2BJD	Q97ZL0	ACYP_SACS2	reviewed	Acylphosphatase (EC 3.6.1.7) (Acylphosphate phosphohydrolase)	acyP SSO0887	Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) (Sulfolobus solfataricus)	101
+2BKF	Q14596	NBR1_HUMAN	reviewed	Next to BRCA1 gene 1 protein (Cell migration-inducing gene 19 protein) (Membrane component chromosome 17 surface marker 2) (Neighbor of BRCA1 gene 1 protein) (Protein 1A1-3B)	NBR1 1A13B KIAA0049 M17S2 MIG19	Homo sapiens (Human)	966
+2CRO	P03036	RCRO_BP434	reviewed	Regulatory protein cro (Antirepressor)	CRO	Enterobacteria phage 434 (Bacteriophage 434)	71
+2FS6	P29373	RABP2_HUMAN	reviewed	Cellular retinoic acid-binding protein 2 (Cellular retinoic acid-binding protein II) (CRABP-II)	CRABP2	Homo sapiens (Human)	138
+2GA5	Q07540	FRDA_YEAST	reviewed	Frataxin homolog, mitochondrial (EC 1.16.3.1) [Cleaved into: Frataxin homolog intermediate form]	YFH1 YDL120W	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	174
+2J5A	O66474	RS6_AQUAE	reviewed	30S ribosomal protein S6	rpsF aq_063	Aquifex aeolicus (strain VF5)	110
+2KDI	P0CG63	UBI4P_YEAST	reviewed	Polyubiquitin [Cleaved into: Ubiquitin]	UBI4 SCD2 YLL039C	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	381
+2KDI	P40343	VPS27_YEAST	reviewed	Vacuolar protein sorting-associated protein 27 (Golgi retention defective protein 11)	VPS27 DID7 GRD11 SSV17 VPL23 VPT27 YNR006W N2038	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	622
+2KLL	O95760	IL33_HUMAN	reviewed	Interleukin-33 (IL-33) (Interleukin-1 family member 11) (IL-1F11) (Nuclear factor from high endothelial venules) (NF-HEV) [Cleaved into: Interleukin-33 (95-270); Interleukin-33 (99-270); Interleukin-33 (109-270)]	IL33 C9orf26 IL1F11 NFHEV	Homo sapiens (Human)	270
+2L6R	P68660	HCP_LAMBD	reviewed	Head completion protein (HCP) (Head-tail joining protein W) (gpW)	W lambdap03	Escherichia phage lambda (Bacteriophage lambda)	68
+2LLH	P06748	NPM_HUMAN	reviewed	Nucleophosmin (NPM) (Nucleolar phosphoprotein B23) (Nucleolar protein NO38) (Numatrin)	NPM1 NPM	Homo sapiens (Human)	294
+2MYO	P62775	MTPN_RAT	reviewed	Myotrophin (Granule cell differentiation protein) (Protein V-1)	Mtpn Gcdp	Rattus norvegicus (Rat)	118
+2PQE	P00644	NUC_STAAU	reviewed	Thermonuclease (TNase) (EC 3.1.31.1) (Micrococcal nuclease) (Staphylococcal nuclease) [Cleaved into: Nuclease B; Nuclease A]	nuc	Staphylococcus aureus	231
+2PTL	Q53291	Q53291_FINMA	unreviewed	Protein LG (Fragment)		Finegoldia magna (Peptostreptococcus magnus)	455
+2QJL	P40554	URM1_YEAST	reviewed	Ubiquitin-related modifier 1	URM1 YIL008W	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	99
+2RN2	P0A7Y4	RNH_ECOLI	reviewed	Ribonuclease HI (RNase HI) (EC 3.1.26.4) (Ribonuclease H) (RNase H)	rnhA dasF herA rnh sdrA b0214 JW0204	Escherichia coli (strain K12)	155
+2VH7	P07311	ACYP1_HUMAN	reviewed	Acylphosphatase-1 (EC 3.6.1.7) (Acylphosphatase, erythrocyte isozyme) (Acylphosphatase, organ-common type isozyme) (Acylphosphate phosphohydrolase 1)	ACYP1 ACYPE	Homo sapiens (Human)	99
+2VKN	P08018	PBS2_YEAST	reviewed	MAP kinase kinase PBS2 (EC 2.7.12.2) (Polymyxin B resistance protein 2) (Suppressor of fluoride sensitivity 4)	PBS2 HOG4 SFS4 SSK4 YJL128C J0699	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	668
+2VKN	P40073	SHO1_YEAST	reviewed	High osmolarity signaling protein SHO1 (Osmosensor SHO1) (Suppressor of SUA8-1 mutation) (Synthetic high osmolarity-sensitive protein 1)	SHO1 SSU81 YER118C	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	367
+2WQG	P40040	THO1_YEAST	reviewed	Protein THO1	THO1 YER063W	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	218
+2WXC	P0AFG6	ODO2_ECOLI	reviewed	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex (EC 2.3.1.61) (2-oxoglutarate dehydrogenase complex component E2) (OGDC-E2) (Dihydrolipoamide succinyltransferase component of 2-oxoglutarate dehydrogenase complex)	sucB b0727 JW0716	Escherichia coli (strain K12)	405
+2X7Z	Q12959	DLG1_HUMAN	reviewed	Disks large homolog 1 (Synapse-associated protein 97) (SAP-97) (SAP97) (hDlg)	DLG1	Homo sapiens (Human)	904
+3BLM	P00807	BLAC_STAAU	reviewed	Beta-lactamase (EC 3.5.2.6) (Penicillinase)	blaZ	Staphylococcus aureus	281
+3CHY	P0AE67	CHEY_ECOLI	reviewed	Chemotaxis protein CheY	cheY b1882 JW1871	Escherichia coli (strain K12)	129
+3F6R	P26492	FLAV_DESDE	reviewed	Flavodoxin		Desulfovibrio desulfuricans	148
+3H08	Q93SU7	Q93SU7_CHLTP	unreviewed	Ribonuclease H (RNase H) (EC 3.1.26.4)	rnh rnhA	Chlorobaculum tepidum	146
+3ZRT	P78352	DLG4_HUMAN	reviewed	Disks large homolog 4 (Postsynaptic density protein 95) (PSD-95) (Synapse-associated protein 90) (SAP-90) (SAP90)	DLG4 PSD95	Homo sapiens (Human)	724
+4BLM	P00808	BLAC_BACLI	reviewed	Beta-lactamase (EC 3.5.2.6) (Penicillinase) [Cleaved into: Large exopenicillinase; Small exopenicillinase]	penP blaP	Bacillus licheniformis	307
+5L8I	P51161	FABP6_HUMAN	reviewed	Gastrotropin (GT) (Fatty acid-binding protein 6) (Ileal lipid-binding protein) (ILBP) (Intestinal 15 kDa protein) (I-15P) (Intestinal bile acid-binding protein) (I-BABP)	FABP6 ILBP ILLBP	Homo sapiens (Human)	128
+1CUN,1SHG,1U4Q,2JMC,1AEY	P07751	SPTN1_CHICK	reviewed	Spectrin alpha chain, non-erythrocytic 1 (Alpha-II spectrin) (Fodrin alpha chain)	SPTAN1 SPTA2	Gallus gallus (Chicken)	2477
+1APS	P00818	ACYP2_HORSE	reviewed	Acylphosphatase-2 (EC 3.6.1.7) (Acylphosphatase, muscle type isozyme) (Acylphosphate phosphohydrolase 2)	ACYP2 ACYP	Equus caballus (Horse)	99
+1O6X,1AYE	P48052	CBPA2_HUMAN	reviewed	Carboxypeptidase A2 (EC 3.4.17.15)	CPA2	Homo sapiens (Human)	419
+1SS1,1BDD	P38507	SPA_STAAU	reviewed	Immunoglobulin G-binding protein A (IgG-binding protein A) (Staphylococcal protein A) (SpA)	spa	Staphylococcus aureus	508
+1BNI,1BRS	P00648	RNBR_BACAM	reviewed	Ribonuclease (EC 3.1.27.-) (Barnase) (RNase Ba)		Bacillus amyloliquefaciens (Bacillus velezensis)	157
+1BTA,1BRS	P11540	BARS_BACAM	reviewed	Barstar (Ribonuclease inhibitor)		Bacillus amyloliquefaciens (Bacillus velezensis)	90
+1C8C	P39476	DN7D_SACS2	reviewed	DNA-binding protein 7d (7 kDa DNA-binding protein d) (Sso7d)	sso7d sso7d-1 SSO10610	Saccharolobus solfataricus (strain ATCC 35092 / DSM 1617 / JCM 11322 / P2) (Sulfolobus solfataricus)	64
+1C9O	P41016	CSPB_BACCL	reviewed	Cold shock protein CspB	cspB	Bacillus caldolyticus	66
+1CSP	P32081	CSPB_BACSU	reviewed	Cold shock protein CspB (Major cold shock protein)	cspB cspA BSU09100	Bacillus subtilis (strain 168)	67
+1EBD	P11959	DLDH1_GEOSE	reviewed	Dihydrolipoyl dehydrogenase (EC 1.8.1.4) (Dihydrolipoamide dehydrogenase) (E3 component of pyruvate complex)	pdhD	Geobacillus stearothermophilus (Bacillus stearothermophilus)	470
+1ENH	P02836	HMEN_DROME	reviewed	Segmentation polarity homeobox protein engrailed	en CG9015	Drosophila melanogaster (Fruit fly)	552
+1D6O,1FKB	P62942	FKB1A_HUMAN	reviewed	Peptidyl-prolyl cis-trans isomerase FKBP1A (PPIase FKBP1A) (EC 5.2.1.8) (12 kDa FK506-binding protein) (12 kDa FKBP) (FKBP-12) (Calstabin-1) (FK506-binding protein 1A) (FKBP-1A) (Immunophilin FKBP12) (Rotamase)	FKBP1A FKBP1 FKBP12	Homo sapiens (Human)	108
+1G6P	O54310	CSP_THEMA	reviewed	Cold shock-like protein	csp TM_1683	Thermotoga maritima (strain ATCC 43589 / MSB8 / DSM 3109 / JCM 10099)	66
+1HRC	P00004	CYC_HORSE	reviewed	Cytochrome c	CYCS CYC	Equus caballus (Horse)	105
+1HZ6	Q51912	Q51912_FINMA	unreviewed	GRAM_POS_ANCHORING domain-containing protein		Finegoldia magna (Peptostreptococcus magnus)	719
+1IMQ	P13479	IMM9_ECOLX	reviewed	Colicin-E9 immunity protein (ImmE9) (Microcin-E9 immunity protein)	imm ceiE9	Escherichia coli	86
+1LOP	P23869	PPIB_ECOLI	reviewed	Peptidyl-prolyl cis-trans isomerase B (PPIase B) (EC 5.2.1.8) (Rotamase B)	ppiB b0525 JW0514	Escherichia coli (strain K12)	164
+1PBA	P09955	CBPB1_PIG	reviewed	Carboxypeptidase B (EC 3.4.17.2)	CPB1 CPB	Sus scrofa (Pig)	416
+1PCA	P09954	CBPA1_PIG	reviewed	Carboxypeptidase A1 (EC 3.4.17.1)	CPA1 CPA	Sus scrofa (Pig)	419
+1PGB	P06654	SPG1_STRSG	reviewed	Immunoglobulin G-binding protein G (IgG-binding protein G)	spg	Streptococcus sp. group G	448
+1PKS	P27986	P85A_HUMAN	reviewed	Phosphatidylinositol 3-kinase regulatory subunit alpha (PI3-kinase regulatory subunit alpha) (PI3K regulatory subunit alpha) (PtdIns-3-kinase regulatory subunit alpha) (Phosphatidylinositol 3-kinase 85 kDa regulatory subunit alpha) (PI3-kinase subunit p85-alpha) (PtdIns-3-kinase regulatory subunit p85-alpha)	PIK3R1 GRB1	Homo sapiens (Human)	724
+1HDN,1POH	P0AA04	PTHP_ECOLI	reviewed	Phosphocarrier protein HPr (Histidine-containing protein)	ptsH hpr b2415 JW2408	Escherichia coli (strain K12)	85
+1AVZ,1NYF,1SHF	P06241	FYN_HUMAN	reviewed	Tyrosine-protein kinase Fyn (EC 2.7.10.2) (Proto-oncogene Syn) (Proto-oncogene c-Fyn) (Src-like kinase) (SLK) (p59-Fyn)	FYN	Homo sapiens (Human)	537
+1TIT	Q8WZ42	TITIN_HUMAN	reviewed	Titin (EC 2.7.11.1) (Connectin) (Rhabdomyosarcoma antigen MU-RMS-40.14)	TTN	Homo sapiens (Human)	34350
+1UBQ	P0CG48	UBC_HUMAN	reviewed	Polyubiquitin-C [Cleaved into: Ubiquitin]	UBC	Homo sapiens (Human)	685
+1FHT,1URN	P09012	SNRPA_HUMAN	reviewed	U1 small nuclear ribonucleoprotein A (U1 snRNP A) (U1-A) (U1A)	SNRPA	Homo sapiens (Human)	282
+1VIK	P12499	POL_HV1Z2	reviewed	Gag-Pol polyprotein (Pr160Gag-Pol) [Cleaved into: Matrix protein p17 (MA); Capsid protein p24 (CA); Spacer peptide 1 (SP1) (p2); Nucleocapsid protein p7 (NC); Transframe peptide (TF); p6-pol (p6*); Protease (EC 3.4.23.16) (PR) (Retropepsin); Reverse transcriptase/ribonuclease H (EC 2.7.7.49) (EC 2.7.7.7) (EC 3.1.26.13) (Exoribonuclease H) (EC 3.1.13.2) (p66 RT); p51 RT; p15; Integrase (IN) (EC 2.7.7.-) (EC 3.1.-.-)]	gag-pol	Human immunodeficiency virus type 1 group M subtype D (isolate Z2/CDC-Z34) (HIV-1)	1436
+1WIT	Q23551	UNC22_CAEEL	reviewed	Twitchin (EC 2.7.11.1) (Uncoordinated protein 22)	unc-22 ZK617.1	Caenorhabditis elegans	7158
+1YCC	P00044	CYC1_YEAST	reviewed	Cytochrome c isoform 1 (Iso-1-cytochrome c) (Cytochrome c aerobic isoform)	CYC1 YJR048W J1653	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	109
+256B	P0ABE7	C562_ECOLX	reviewed	Soluble cytochrome b562 (Cytochrome b-562)	cybC	Escherichia coli	128
+1NTI,2ABD	P07107	ACBP_BOVIN	reviewed	Acyl-CoA-binding protein (ACBP) (Diazepam-binding inhibitor) (DBI) (Endozepine) (EP)	DBI	Bos taurus (Bovine)	87
+2ACY	P41500	ACYP1_BOVIN	reviewed	Acylphosphatase-1 (EC 3.6.1.7) (Acylphosphatase, erythrocyte/testis isozyme) (Acylphosphatase, organ-common type isozyme) (Acylphosphate phosphohydrolase 1)	ACYP1 ACYPE	Bos taurus (Bovine)	101
+2AIT	P01092	IAA_STRTE	reviewed	Alpha-amylase inhibitor HOE-467A (Tendamistat)		Streptomyces tendae	104
+3CI2,1CIS,1COA,2CI2	P01053	ICI2_HORVU	reviewed	Subtilisin-chymotrypsin inhibitor-2A (CI-2A)		Hordeum vulgare (Barley)	84
+2HQI	P04129	MERP_SHIFL	reviewed	Mercuric transport protein periplasmic component (Mercury scavenger protein) (Periplasmic mercury ion-binding protein)	merP	Shigella flexneri	91
+1W4E,1EBD,2PDD	P11961	ODP2_GEOSE	reviewed	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12) (Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex) (E2)	pdhC	Geobacillus stearothermophilus (Bacillus stearothermophilus)	428
+1VII,2VIL,2VIK	P02640	VILI_CHICK	reviewed	Villin-1	VIL1 VIL	Gallus gallus (Chicken)	826
+1MJC,3MEF	P0A9X9	CSPA_ECOLI	reviewed	Cold shock protein CspA (CSP-A) (7.4 kDa cold shock protein) (CS7.4)	cspA cspS b3556 JW3525	Escherichia coli (strain K12)	70

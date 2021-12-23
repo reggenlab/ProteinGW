@@ -1,0 +1,27 @@
+yourlist:M202103258BC4D7ADE02784B0C2481C7F3DE0963A00EB7FS	Entry	Entry name	Status	Protein names	Gene names	Organism	Length
+1aps	P00818	ACYP2_HORSE	reviewed	Acylphosphatase-2 (EC 3.6.1.7) (Acylphosphatase, muscle type isozyme) (Acylphosphate phosphohydrolase 2)	ACYP2 ACYP	Equus caballus (Horse)	99
+1cis,1coa	P01053	ICI2_HORVU	reviewed	Subtilisin-chymotrypsin inhibitor-2A (CI-2A)		Hordeum vulgare (Barley)	84
+1fkb	P62942	FKB1A_HUMAN	reviewed	Peptidyl-prolyl cis-trans isomerase FKBP1A (PPIase FKBP1A) (EC 5.2.1.8) (12 kDa FK506-binding protein) (12 kDa FKBP) (FKBP-12) (Calstabin-1) (FK506-binding protein 1A) (FKBP-1A) (Immunophilin FKBP12) (Rotamase)	FKBP1A FKBP1 FKBP12	Homo sapiens (Human)	108
+1hdn	P0AA04	PTHP_ECOLI	reviewed	Phosphocarrier protein HPr (Histidine-containing protein)	ptsH hpr b2415 JW2408	Escherichia coli (strain K12)	85
+1pba	P09955	CBPB1_PIG	reviewed	Carboxypeptidase B (EC 3.4.17.2)	CPB1 CPB	Sus scrofa (Pig)	416
+1ubq	P0CG48	UBC_HUMAN	reviewed	Polyubiquitin-C [Cleaved into: Ubiquitin]	UBC	Homo sapiens (Human)	685
+1urn	P09012	SNRPA_HUMAN	reviewed	U1 small nuclear ribonucleoprotein A (U1 snRNP A) (U1-A) (U1A)	SNRPA	Homo sapiens (Human)	282
+1vik	P12499	POL_HV1Z2	reviewed	Gag-Pol polyprotein (Pr160Gag-Pol) [Cleaved into: Matrix protein p17 (MA); Capsid protein p24 (CA); Spacer peptide 1 (SP1) (p2); Nucleocapsid protein p7 (NC); Transframe peptide (TF); p6-pol (p6*); Protease (EC 3.4.23.16) (PR) (Retropepsin); Reverse transcriptase/ribonuclease H (EC 2.7.7.49) (EC 2.7.7.7) (EC 3.1.26.13) (Exoribonuclease H) (EC 3.1.13.2) (p66 RT); p51 RT; p15; Integrase (IN) (EC 2.7.7.-) (EC 3.1.-.-)]	gag-pol	Human immunodeficiency virus type 1 group M subtype D (isolate Z2/CDC-Z34) (HIV-1)	1436
+2hqi	P04129	MERP_SHIFL	reviewed	Mercuric transport protein periplasmic component (Mercury scavenger protein) (Periplasmic mercury ion-binding protein)	merP	Shigella flexneri	91
+2ptl	Q53291	Q53291_FINMA	unreviewed	Protein LG (Fragment)		Finegoldia magna (Peptostreptococcus magnus)	455
+2vik	P02640	VILI_CHICK	reviewed	Villin-1	VIL1 VIL	Gallus gallus (Chicken)	826
+1hrc	P00004	CYC_HORSE	reviewed	Cytochrome c	CYCS CYC	Equus caballus (Horse)	105
+1imq	P13479	IMM9_ECOLX	reviewed	Colicin-E9 immunity protein (ImmE9) (Microcin-E9 immunity protein)	imm ceiE9	Escherichia coli	86
+1ycc	P00044	CYC1_YEAST	reviewed	Cytochrome c isoform 1 (Iso-1-cytochrome c) (Cytochrome c aerobic isoform)	CYC1 YJR048W J1653	Saccharomyces cerevisiae (strain ATCC 204508 / S288c) (Baker's yeast)	109
+2abd	P07107	ACBP_BOVIN	reviewed	Acyl-CoA-binding protein (ACBP) (Diazepam-binding inhibitor) (DBI) (Endozepine) (EP)	DBI	Bos taurus (Bovine)	87
+2pdd	P11961	ODP2_GEOSE	reviewed	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex (EC 2.3.1.12) (Dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex) (E2)	pdhC	Geobacillus stearothermophilus (Bacillus stearothermophilus)	428
+1csp	P32081	CSPB_BACSU	reviewed	Cold shock protein CspB (Major cold shock protein)	cspB cspA BSU09100	Bacillus subtilis (strain 168)	67
+1pks	P27986	P85A_HUMAN	reviewed	Phosphatidylinositol 3-kinase regulatory subunit alpha (PI3-kinase regulatory subunit alpha) (PI3K regulatory subunit alpha) (PtdIns-3-kinase regulatory subunit alpha) (Phosphatidylinositol 3-kinase 85 kDa regulatory subunit alpha) (PI3-kinase subunit p85-alpha) (PtdIns-3-kinase regulatory subunit p85-alpha)	PIK3R1 GRB1	Homo sapiens (Human)	724
+1nyf,1shf	P06241	FYN_HUMAN	reviewed	Tyrosine-protein kinase Fyn (EC 2.7.10.2) (Proto-oncogene Syn) (Proto-oncogene c-Fyn) (Src-like kinase) (SLK) (p59-Fyn)	FYN	Homo sapiens (Human)	537
+1aey,1shg	P07751	SPTN1_CHICK	reviewed	Spectrin alpha chain, non-erythrocytic 1 (Alpha-II spectrin) (Fodrin alpha chain)	SPTAN1 SPTA2	Gallus gallus (Chicken)	2477
+1srl	P00523	SRC_CHICK	reviewed	Proto-oncogene tyrosine-protein kinase Src (EC 2.7.10.2) (Proto-oncogene c-Src) (pp60c-src) (p60-Src)	SRC	Gallus gallus (Chicken)	533
+1ten	P24821	TENA_HUMAN	reviewed	Tenascin (TN) (Cytotactin) (GMEM) (GP 150-225) (Glioma-associated-extracellular matrix antigen) (Hexabrachion) (JI) (Myotendinous antigen) (Neuronectin) (Tenascin-C) (TN-C)	TNC HXB	Homo sapiens (Human)	2201
+1tit	Q8WZ42	TITIN_HUMAN	reviewed	Titin (EC 2.7.11.1) (Connectin) (Rhabdomyosarcoma antigen MU-RMS-40.14)	TTN	Homo sapiens (Human)	34350
+1wit	Q23551	UNC22_CAEEL	reviewed	Twitchin (EC 2.7.11.1) (Uncoordinated protein 22)	unc-22 ZK617.1	Caenorhabditis elegans	7158
+2ait	P01092	IAA_STRTE	reviewed	Alpha-amylase inhibitor HOE-467A (Tendamistat)		Streptomyces tendae	104
+1mjc,3mef	P0A9X9	CSPA_ECOLI	reviewed	Cold shock protein CspA (CSP-A) (7.4 kDa cold shock protein) (CS7.4)	cspA cspS b3556 JW3525	Escherichia coli (strain K12)	70

@@ -1,0 +1,241 @@
+﻿No.,Protein short name,PDB,Class,Fold,Lpdb,L,pH,"Temp
+(°C)","Folding
+type",ln(kf),"ln(kf)
+(25°C)",,ln(ku),"ln(ku)
+(25°C)",,βT,pH,"Temp
+(°C)","Folding
+type","ln(kf)
+",,Comment,,,,,,,,,,,,,,,
+1,Arc repressor [1],1ARR_mod (1–106),α,Ribbon-helix-helix ,106,125,7.5,25,2S,9.2 ,,,0.34 ,,,0.78 ,"—
+ NA","—
+ NA","—
+ NA","—
+ NA",,"The folding experiments were carried out for the monomeric form of Arc repressor. 1ARR_mod indicates the PDB coordinates of the monomeric form, and the amino-acid residue number was renumbered accordingly.",,,,,,,,,,,,,,,
+2,TRF1 (Human) [2],1BA5,α,DNA/RNA-binding 3-helical bundle ,53,53,5.7,25.0 ,2S,5.9 ,,,1.2 ,,,0.90 ,—,—,—,—,,,,,,,,,,,,,,,,,
+3,R16 [3],1CUN (7–112),α,Spectrin repeat-like,106,116,7.0 ,25.0 ,2S*,4.8 ,,,-6.0 ,,,0.63 ,—,—,—,—,,,,,,,,,,,,,,,,,
+4,R17 [3],1CUN (113–219),α,Spectrin repeat-like,107,116,7.0 ,25.0 ,2S,3.4 ,,,-7.8 ,,,0.61 ,—,—,—,—,,,,,,,,,,,,,,,,,
+5,FADD [4],1E41_ (93–192),α,DEATH domain ,100,100,7.0 ,25.0 ,2S,6.9 ,,,-3.2 ,,,0.76 ,—,—,—,—,,,,,,,,,,,,,,,,,
+6,RAP1 (Human) [2],1FEX,α,DNA/RNA-binding 3-helical bundle ,59,59,5.7,25.0,2S,8.2 ,,,2.9 ,,,0.82 ,—,—,—,—,,,,,,,,,,,,,,,,,
+7,c-Myb [2],1IDY,α,DNA/RNA-binding 3-helical bundle ,54,54,5.7,25.0,2S,8.7 ,,,1.7 ,,,0.79 ,—,—,—,—,,,,,,,,,,,,,,,,,
+8,Im9 [5],1IMQ,α,Acyl carrier protein-like ,86,93,7.0,25,2S,7.33 ,,,-1.87 ,,,0.95 ,—,—,—,—,,,,,,,,,,,,,,,,,
+9,V1sE (Borrelia burgdorferi) [5],1L8W (Chain B: 29–335),α,Variable surface antigen VlsE,307,338,7.0,20,2S,2.0 ,3.6 ,3.6 ,-8.5 ,-5.0,-5.2 ,0.64 ,—,25,—,—,,"According to Maxwell et al. (5), the V1sE data were adopted from reference (6), where the measurement temperature was 20°C. Hence, we reported 20°C as the measurement temperature, although the AG dataset reported 25°C.",,,,,,,,,,,,,,,
+10,λ-Repressor [5],1LMB (6–85),α,Lambda repressor-like DNA-binding domains,80,80,8,25,2S,10.4 ,,,3.2 ,,,0.72 ,—,—,—,—,,,,,,,,,,,,,,,,,
+11,PAB [7],1PRB (7–53),α,Immunoglobulin/albumin-binding domain-like,47,47,7.0,74.5,2S,13.8 ,14.3 ,NA,9.9 ,4.7,NA,NA,"—
+ NA","—
+ NA","—
+ NA","—
+ NA",,,,,,,,,,,,,,,,,
+12,Protein YjbJ [5],1RYK,α,SAM domain-like,69,89,7.0,25,2S,9.1 ,,,4.5 ,,,0.58 ,—,—,—,—,,,,,,,,,,,,,,,,,
+13,IGBPA [8],1SS1 (2–60),α,Immunoglobulin/albumin-binding domain-like,59,60,5.5,25.0,2S,11.5 ,,,3.2 ,,,0.83 ,"—
+ 5.0","—
+ 37.0",—,"—
+ 11.7",,"The ACPro and our datasets have adopted the data from reference (8), which is more updated than reference (9) adopted by the Garbuzynskiy dataset.",,,,,,,,,,,,,,,
+14,ACBP (Yeast) [10],1ST7,α,Acyl-CoA binding protein-like ,86,86,5.3,5,2S,8.5 ,10.9 ,10.8 ,-6.4 ,-3.0 ,-2.8 ,0.60 ,—,—,N2S,—,,"This protein was classified as a N2S protein in the AG dataset, but our dataset classified the protein as a 2S protein, because the authors of reference (10) did not observe any intermediates during kinetic refolding.",,,,,,,,,,,,,,,
+15,R15 [3],1U4Q (1662–1771),α,Spectrin repeat-like,110,116,7.0,25.0,2S,11.0 ,,,0.26 ,,,0.65 ,—,—,—,—,,,,,,,,,,,,,,,,,
+16,HP-35 (Chicken) [11],1VII (42–76),α,Villin headpiece domain ,35,35,4.9,27,2S,12.3 ,12.3 ,NA,7.1 ,7.0 ,NA,NA,"5.3
+ NA","49.9
+ NA",—,"12.6
+ NA",,"Both the ACPro and our datasets have adopted the data from reference (11), which reports the ln(kf) values at 27 and 49.9°C. We adopted the data at 27°C, while the ACPro dataset adopted those at 49.9°C.",,,,,,,,,,,,,,,
+17,PSBD (Bacillus stearothermophilus) [12],1W4E,α,Peripheral subunit-binding domain of 2-oxo acid dehydrogenase complex,45,45,5.5,25,2S,10.2 ,,,3.0 ,,,0.65 ,"7.9
+ NA","41
+ NA",—,"9.69
+ NA",,"We have adopted the data from reference (12), which is more updated than reference (13) adopted by the AG dataset.",,,,,,,,,,,,,,,
+18,PSBD (Pyrobaculum aerophilum) [14],1W4J,α,Peripheral subunit-binding domain of 2-oxo acid dehydrogenase complex,51,51,5.7,25,2S,12.3 ,,,6.3 ,,,0.80 ,—,—,—,—,,,,,,,,,,,,,,,,,
+19,Rd-apocyt b562 [15],1YYJ,α,Designed single chain four-helix bundle,106,106,5.2,25,2S,8.4 ,,,-7.5 ,,,0.47 ,"—
+ NA","—
+ NA","—
+ NA","—
+ NA",,,,,,,,,,,,,,,,,
+20,De novo bundle a3d [16],2A3D,α,Designed single chain three-helix bundle,73,73,2.6,25,2S,12.2 ,,,7.8 ,,,NA,"—
+ NA","44
+ NA",—,"12.50
+ NA",,"Both the ACPro and our datasets have adopted the data from reference (16), which reports the ln(kf) values at 25 and 44°C. We adopted the data at 25°C, while the ACPro dataset adopted those at 44°C.",,,,,,,,,,,,,,,
+21,C-NPM1 [17],2LLH (19–70),α,DNA binding protein chaperone,52,52,7.0,10,2S,7.0 ,7.9 ,8.1 ,1.1 ,2.6 ,2.1 ,0.74 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+22,BBL [18],2WXC,α,Peripheral subunit-binding domain of 2-oxo acid dehydrogenase complex,47,47,7.0,25,2S,11.7 ,,,7.6 ,,,0.72 ,—,10,—,11.2,,"The same experimental group reported the ln(kf) values at 25°C (18) and 10°C (19). We adopted the data at 25°C, but the AG dataset adopted those at 10°C It has also been reported that BBL exhibits down-hill folding without a significant free-energy barrier, depending on solution conditions (71,72).",,,,,,,,,,,,,,,
+23,SAP domain of THO1 [20],2WQG,α,LEM/SAP HeH motif,51,51,6.0,20,2S,8.5 ,8.8 ,8.8 ,4.1 ,4.6 ,4.6 ,0.67 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+24,KIX domain [21],1KDX (586–666),α,Kix domain of CBP (creb binding protein),80,86,7.2,20,2S,7.8 ,8.2 ,8.3 ,2.6 ,3.5 ,3.1 ,0.79 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+25,RNase HII (Thermococcus kodakaraensis) [22],1IO2,α/β,Ribonuclease H-like motif,213,228,9.0,50,2S,-0.25 ,-1.4 ,-1.5 ,-16.8 ,-29.8 ,-28.5 ,0.66 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+26,Myotrophin [23],2MYO,α+β, β-Hairpin-alpha-hairpin repeat ,118,118,7.5,25,2S*,4.8 ,,,-5.3 ,,,0.47 ,"NA
+ —","NA
+ —","NA
+ N2S","NA
+ —",,"This protein is classified as a N2S protein in the Garbuzynskiy dataset. Since the intermediate is a high-energy state not significantly populated during folding, it is classified as a 2S protein in our dataset.",,,,,,,,,,,,,,,
+27,Urm1 [5],2QJL,α+β, β-Grasp (ubiquitin-like) ,99,101,7.0,25,2S,2.6 ,,,3.3 ,,,0.57 ,"—
+ NA","—
+ NA","—
+ NA","—
+ NA",,,,,,,,,,,,,,,,,
+28,ACYP2 (Horse) [5],1APS,α+β,Ferredoxin-like,98,99,7.0,25,2S,-1.6 ,,,-9.0 ,,,0.24 ,—,—,—,—,,,,,,,,,,,,,,,,,
+29,FKBP12 [5],1D6O,α+β,FKBP-like ,107,107,7.0,25,2S,1.6 ,,,-8.1 ,,,0.70 ,—,—,—,—,,,,,,,,,,,,,,,,,
+30,NTL9 [5],1DIV (1–56),α+β,MbtH/L9 domain-like,56,56,7.0,25,2S,6.55,,,0.1 ,,,0.72 ,—,—,—,—,,,,,,,,,,,,,,,,,
+31,"CTL9 [5, 24]",1DIV (58–149),α+β,Ribosomal protein L9 C-domain ,92,92,8.0,25,2S,3.3 ,,,-7.9 ,,,0.69 ,—,—,—,—,,,,,,,,,,,,,,,,,
+32,CksHs1 (Human) [25],1DKT (5–76),α+β,Cell cycle regulatory proteins ,72,79,7.5,10,2S,4.5 ,5.8 ,5.2 ,-2.7 ,-0.6 ,1.2 ,0.31 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+33,LysM domain [26],1E0G,α+β,LysM domain ,48,64,7.0,10.5,2S,7.0 ,7.9 ,,2.2 ,3.5 ,3.3 ,0.69 ,—,—,—,—,,,,,,,,,,,,,,,,,
+34,U1A [5],1FHT (2–97),α+β,Ferredoxin-like,96,102,7.0,25,2S,4.6 ,,,-11.7 ,,,0.53 ,—,—,—,—,,,,,,,,,,,,,,,,,
+35,HPr [27],1HDN,α+β,HPr-like,85,85,7.0,20,2S,2.7 ,3.3 ,,-6.2 ,-5.3 ,-5.3 ,0.64 ,—,—,—,—,,,,,,,,,,,,,,,,,
+36,TM1083 [5],1J5U,α+β,MTH1598-like ,124,124,7.0,25,2S,6.9 ,,,-5.3 ,,,0.64 ,"—
+ NA","—
+ NA","—
+ NA","—
+ NA",,,,,,,,,,,,,,,,,
+37,Ribosomal protein L23 (Thermus thermophilus) [5],1N88,α+β,"Ribosomal proteins S24e, L23 and L15e",96,96,7.0,25,2S,2.0 ,,,-3.9 ,,,0.75 ,—,—,—,—,,,,,,,,,,,,,,,,,
+38,ADAh2 [5],1O6X,α+β,Ferredoxin-like,81,81,7.0,25,2S,6.8 ,,,-0.42 ,,,0.74 ,—,—,—,—,,,,,,,,,,,,,,,,,
+39,raf RBD [28],1RFA (56–130),α+β,β-Grasp (ubiquitin-like),75,75,7.0,25.0,2S,7.7 ,,,-3.0 ,,,0.75 ,—,—,—,8.36,,"We have adopted the data from reference (55), which is more updated than reference (5) adopted by the AG dataset.",,,,,,,,,,,,,,,
+40,Ribosomal protein S6 (Thermus thermophilus) [5],1RIS (1–97),α+β,Ferredoxin-like ,97,101,7.0,25,2S,6.1 ,,,-8.3 ,,,0.69 ,—,—,—,—,,,,,,,,,,,,,,,,,
+41,Src SH2 [5],1SPR (2–104),α+β,SH2-like ,103,110,7.0,25,2S,8.7 ,,,-3.5 ,,,0.83 ,—,—,—,—,,,,,,,,,,,,,,,,,
+42,NBR1-PB1 [29],2BKF (1–85),α+β,β-Grasp (ubiquitin-like),85,100,5.0,25,2S*,6.2 ,,,-5.6 ,,,0.71 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+43,Ribosomal protein S6 (Aquifex aeolicus) [30],2J5A (3–108),α+β,Ferredoxin-like,106,110,6.3,25,2S,7.3 ,,,-10.9 ,,,0.74 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+44,B1 domain of protein L (Finegoldia magna) [5],2PTL (18–77),α+β,β-Grasp (ubiquitin-like),62,79,7.0,25,2S,4.1 ,,,-3.3 ,,,0.75 ,—,—,—,—,,,,,,,,,,,,,,,,,
+45,ACYP1 (Human) [31],2VH7 (5–98),α+β,Ferredoxin-like,94,98,5.5,28,2S,0.84 ,0.72 ,,-6.5 ,-7.1,-7.0 ,0.72 ,—,—,—,—,,,,,,,,,,,,,,,,,
+46,CI2 [5],3CI2,α+β,CI-2 family of serine protease inhibitors,64,64,7.0,25,2S,5.8 ,,,-10.3 ,,,0.58 ,—,—,—,—,,,,,,,,,,,,,,,,,
+47,Apocytochrome b5 hydrophilic domain [32],1EHB (3–84),α+β,Cytochrome b5-like heme/steroid binding domain ,82,104,7.0,10.0,2S,3.0 ,4.5 ,,-1.4 ,1.1 ,0.6 ,0.70 ,—,—,—,—,,,,,,,,,,,,,,,,,
+48,Frataxin (Yeast) [33],2GA5,β,N domain of copper amine oxidase-like ,119,123,7.0,25,2S,5.4 ,,,-3.1 ,,,0.71 ,NA,NA,NA,NA,,The refolding kinetics were measured in the presence of stabilizing ions (0.4 M sodium sulfate),,,,,,,,,,,,,,,
+49,IκBα [34],1NFI (67–206),β,Common fold of diphtheria toxin/transcription factors/cytochrome f,140,140,7.5,25,2S*,1.8 ,,,-5.6 ,,,0.072 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+50,Sso7d [35],1C8C,β,SH3-like barrel,64,64,6.1,20,2S,7.0 ,7.2,7.3 ,-3.2 ,-2.6,-2.6 ,0.63 ,—,—,—,—,,,,,,,,,,,,,,,,,
+51,CheW (Thermotoga maritima) [5],1K0S,β,OB-fold ,151,151,7.0,25,2S,7.4 ,,,-12.1 ,,,0.64 ,—,—,—,—,,,,,,,,,,,,,,,,,
+52,CyPA (Escherichia coli) [36],1LOP,β,Cyclophilin-like ,164,164,7.0,20,2S,6.6 ,7.4 ,7.3 ,-10.4 ,-8.6 ,-8.3 ,0.57 ,—,—,—,—,,,,,,,,,,,,,,,,,
+53,Protein S (N-terminal domain) [37],1PRS (1–88),β,𝛾-Crystallin-like,88,88,7.0,20,2S,3.0 ,3.5,3.5 ,-9.4 ,-8.4,-8.4 ,0.62 ,—,—,—,—,,,,,,,,,,,,,,,,,
+54,Protein S (C-terminal domain) [37],1PRS (91–173),β,𝛾-Crystallin-like,83,91,7.0,20,2S,-2.0 ,-1.6,-1.5 ,-9.3 ,-8.4,-8.9 ,0.84 ,—,—,—,—,,,,,,,,,,,,,,,,,
+55,CspB (Bacillus caldolyticus) [38],1C9O,β,OB-fold,66,66,7.0,25,2S,7.2 ,,,-0.45 ,,,0.93 ,—,—,—,—,,,,,,,,,,,,,,,,,
+56,CspB (Bacillus subtilis) [38],1CSP,β,OB-fold,67,67,7.0,25,2S,6.5 ,,,2.3 ,,,0.91 ,—,—,—,—,,,,,,,,,,,,,,,,,
+57,Cold shock-like protein (Thermotoga maritima) [38],1G6P,β,OB-fold,66,68,7.0,25,2S,6.3 ,,,-4.0 ,,,0.86 ,—,—,—,—,,,,,,,,,,,,,,,,,
+58,FBP28 WW domain [39],1E0L,β,WW domain-like ,37,37,6.5,10.0,2S,10.1 ,10.7 ,10.8 ,5.8 ,6.8 ,6.6 ,0.71 ,7,25,—,10.62,,"We reported the data for the wild-type protein (84), while the AG dataset reported those for the W30A mutant (85).",,,,,,,,,,,,,,,
+59,Prototype WW domain [40],1E0M,β,WW domain-based designs ,37,38,7.0,25.0,2S,8.9 ,,,7.1 ,,,0.64 ,—,—,—,—,,,,,,,,,,,,,,,,,
+60,Hisactophilin [41],1HCD,β,β-Trefoil,118,118,6.7,20.0,2S,1.3 ,1.6 ,,-9.9 ,-9.5 ,,0.73 ,"7.7
+ 7.7","—
+ —",N2S,"4.6
+ 4.0",,"We have adopted the data from reference (86), which is more updated than reference (87) adopted by the AG dataset.",,,,,,,,,,,,,,,
+61,Abp1 SH3 [5],1JO8,β,SH3-like barrel,58,68,7.0,25,2S,2.5 ,,,-2.7 ,,,0.88 ,—,—,—,—,,"There is some evidence for the presence of a folding intermediate for a mutant of abp1 SH3, characterized by relaxation dispersion NMR (88). However, the intermediate was not highly populated under strongly native folding conditions, so that the folding type of this protein was classified as the 2S.",,,,,,,,,,,,,,,
+62,CAfn2 [44],1K85,β,Immunoglobulin-like β-sandwich,88,88,5.0 ,25,2S,1.4 ,,,-7.1 ,,,0.62 ,—,—,—,—,,,,,,,,,,,,,,,,,
+63,hbLBD [45],1K8M (1–87),β,Barrel-sandwich hybrid ,87,93,7.5,22.0,2S,-0.94 ,-0.71 ,-0.73,-8.0 ,-7.5,-7.4,0.55 ,"—
+ —","—
+ —",—,"−0.71
+ —",,"Both the AG and our datasets adopted the same reference (90). Our reported ln(kf) value is identical with that of the Garbuzynskiy dataset, but the ACPro dataset reports a different value.",,,,,,,,,,,,,,,
+64,PDZ3 from PSD-95 [46],1TP3 (309–401),β,PDZ domain-like ,93,93,2.85,25,2S*,3.0 ,,,-3.4 ,,,0.56 ,—,—,N2S,—,,"This protein is classified as a N2S protein in the AG dataset. Since the intermediate is a high-energy state not significantly populated during folding, it is classified as a 2S protein in our dataset.",,,,,,,,,,,,,,,
+65,YAP 65 WW domain [41],1K9Q,β,WW domain-like ,40,40,7.0,25.0,2S,8.4 ,,,6.7 ,,,0.78 ,—,—,—,—,,,,,,,,,,,,,,,,,
+66,GW1 of Internalin B [5],1M9S (391–466),β,SH3-like barrel,76,85,7.0,25,2S,4.0 ,,,-1.7 ,,,0.69 ,—,—,—,—,,,,,,,,,,,,,,,,,
+67,CspA [47],1MJC,β,OB-fold,69,69,7.0,25,2S,5.3 ,,,1.4 ,,,0.94 ,—,—,—,—,,,,,,,,,,,,,,,,,
+68,Pin WW domain [48],1PIN (6–39),β,WW domain-like ,34,34,7.0,39.5,2S,9.4 ,9.2 ,NA,6.2 ,5.2 ,NA,NA,—,—,—,—,,,,,,,,,,,,,,,,,
+69,PI3 SH3 [49],1PNJ (3–84),β,SH3-like barrel ,82,82,7.2,25,2S,-0.69 ,,,-7.2 ,,,0.57 ,—,20,—,−1.04,,"There is some evidence for initial non-specific chain collapse during the refolding of the PI3 SH3 domain (94). However, there is no cooperative transition between the collapsed and the unfolded states, indicating that the collapsed state may belong to the unfolded species, and hence, the folding of PI3 SH3 was classified as the 2S type. In the presence of a stabilizing salt (0.5 M sodium sulfate), however, the folding behavior of PI3 SH3 changed from the 2S to the N2S type with a stable folding intermediate (95).",,,,,,,,,,,,,,,
+70,MTCP1 oncogene product P13 [51],1QTU (1–115),β,Oncogene products ,115,117,7.0,21,2S,-0.36 ,0.08 ,0.17 ,-11.1 ,-10.1,-10.5,0.76 ,"—
+ —","—
+ —",—,"—
+ 0.0",,"Both the AG and our datasets adopted the same reference (96). Our reported ln(kf) value is identical with that of the ACPro dataset, but the Garbuzynskiy dataset reports a different value.",,,,,,,,,,,,,,,
+71,FGF-1 (Human) [52],1RG8,β,β-Trefoil ,137,140,6.60,25,2S,1.3 ,,,-7.1 ,,,0.93 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+72,Fyn SH3 [5],1AVZ (Chain C: 85–141),β,Regulatory factor Nef,57,78,7.0,25,2S,4.9 ,,,-4.3 ,,,0.75 ,—,—,—,—,,"There is some evidence for the presence of a low-populated folding intermediate for Fyn SH3 mutants characterized by relaxation dispersion NMR (98, 99). However, the intermediate was not highly populated under strongly native folding conditions, and the stopped-flow kinetics of refolding were well represented by a 2S model (100). The folding of Fyn SH3 was thus classified as the 2S type.",,,,,,,,,,,,,,,
+73,α-spectrin SH3 [5],1SHG (6–62),β,SH3-like barrel ,57,62,7.0,25,2S,1.1 ,,,-4.8 ,,,0.80 ,—,—,—,—,,"There are reports suggesting the presence of the intermediate species in α-spectrin SH3 (101). However, the majority of the folding reaction under native folding conditions is well represented by the 2S mechanism.",,,,,,,,,,,,,,,
+74,Src SH3 [5],1SRL (9–64),β,SH3-like barrel ,56,61,7.0,25,2S,4.4 ,,,-1.3 ,,,0.71 ,—,—,—,—,,"There are reports indicating the presence of an α-helical burst-phase intermediate in the kinetic refolding of src SH3, particularly at acid pH at a low temperature (4°C or lower) in the presence of an anti-freezing agent (ethylene glycol) (102, 103). Unfortunately, however, there is no quantitative analysis of the src SH3 folding, based on the N2S model under native folding conditions (neutral pH and 25°C), and the previous quantitative analysis of the src SH3 folding was based on the 2S model (5, 104). We thus temporarily leave the folding-type classification of this protein as the 2S type.",,,,,,,,,,,,,,,
+75,Tenascin 3FNIII [60],1TEN (803–891),β,Immunoglobulin-like β-sandwich ,89,90,5.0 ,25,2S,1.8 ,,,-8.6 ,,,0.79 ,—,20,—,1.06,,"We have adopted the data from reference (105), which is more updated than reference (106) adopted by the AG dataset.",,,,,,,,,,,,,,,
+76,Twitchin [62],1WIT,β,Immunoglobulin-like β-sandwich ,93,93,5.0,20,2S,0.41 ,0.85 ,0.90 ,-8.2 ,-7.2,-7.4,0.7 ,—,—,—,—,,,,,,,,,,,,,,,,,
+77,Sho1 SH3 (Yeast) [5],2VKN (1–66),β,Membrane protein,66,76,7.0,25,2S,2.1 ,,,-2.5 ,,,0.68 ,"—
+ NA","—
+ NA","N2S
+ NA","—
+ NA",,"Both the ACPro and our datasets adopted the same reference (5). We classified the folding type as the 2S type according to the reference, but the ACPro dataset classified it as the N2S type.",,,,,,,,,,,,,,,
+78,9FNIII [63],1FNF (1325–1415),β,Immunoglobulin-like β-sandwich,91,91,5.2,25.0,2S,-0.9 ,,,NA,,,0.7 ,—,—,"N2S 
+ —",—,,"Both the AG and our datasets adopted the same reference (108). The Garbuzynskiy and our datasets classified the folding type as the 2S type according to the reference, but the ACPro dataset classified it as the N2S type.",,,,,,,,,,,,,,,
+79,PDZ2 from PTP-BL [64],1GM1 (9–102),β,PDZ domain-like ,94,94,7.0,25,2S*,1.0 ,,,-3.9 ,,,0.53 ,"—
+ —","—
+ —",N2S,"—
+ 0.8",,"Both the AG and our datasets adopted the same reference (109). Our reported ln(kf) value is identical with that of the ACPro dataset, but the Garbuzynskiy dataset reports a different value. Although this protein is classified as a N2S protein in the AG dataset, the intermediate is a high-energy state, not significantly populated during folding, so that it is classified as a 2S protein in our dataset.",,,,,,,,,,,,,,,
+80,SPCp41 [65],2JMC,β,SH3-like barrel ,75,75,7.0,25,2S,3.3 ,,,-1.6 ,,,0.76 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+81,FGF-2 (Human) [66],1FGA (20–143),β,β-Trefoil ,124,153,7.0 ,25,2S,-1.4 ,,,-10.4 ,,,0.82 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+82,PDZ1 from PSD-95 [67],3ZRT (3–93),β,PDZ domain-like ,91,91,7.4,25,2S*,1.3 ,,,-7.3 ,,,0.66 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+83,PDZ2 from PSD-95 [67],3ZRT (97–189),β,PDZ domain-like ,93,95,5.45,25,2S*,0.3 ,,,-6.6 ,,,0.51 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+84,nNOS PDZ [67],1QAU (14–125),β,PDZ domain-like ,112,132,4.0 ,25,2S*,1.8 ,,,-4.1 ,,,0.21 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+85,Symfoil-4T [68],3O4B (11–147),β,β-Trefoil ,137,140,6.6,25,2S,4.3 ,,,-11.4 ,,,0.83 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+86,Symfoil-1 [68],3O49,β,β-Trefoil ,127,140,6.6,25,2S,1.7 ,,,-9.0 ,,,0.82 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+87,Symfoil-4P [68],3O4D,β,β-Trefoil ,126,140,6.6,25,2S,4.9 ,,,-13.7 ,,,0.84 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+88,gpW [69],2L6R,β,gpW/XkdW-like ,62,62,6.0,37,2S,10.3 ,9.9 ,NA,NA,NA,NA,NA,NA,NA,NA,NA,,"The protein is a downhill folder, which shows barrier-free folding, and hence the temperature correction is tentative. ",,,,,,,,,,,,,,,
+89,PDZ2 from SAP97 [70],2X7Z (311–407),β,PDZ domain-like ,97,97,7.5,25,2S*,0.74 ,,,-6.2 ,,,0.76 ,NA,NA,NA,NA,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Description of each proteins includes:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Column 1: “No”: serial number.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Column 2: “Protein short name”: includes a reference to the original experimental paper on its folding kinetics.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Column 3: “PDB code”: the protein three-dimensional (3D) structure code according to the PDB. If only a part of the chain was used in the protein folding experiment, it is contained in brackets. If a 3D structure composed of multiple separated chains (eg. A, B, C, and D), we considered a chain that have the highest coverage with L. If the considered chain is other than chain A, it is explicitly mentioned.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Column 4: “Protein structural class”,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Column 5: Fold classification by SCOP (http://scop.mrc-lmb.cam.ac.uk/scop/).,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Column 6: “Lpdb”: number of folded residues according to the PDB data. If a 3D structure is not continuous (i.e. multiple breaks), we removed only terminal residues (N- and C- terminal) and considered the remaining region as continuous.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Column 7: “L”: number of residues in the protein used in the experimental study.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Column 8: Either the present dataset or our dataset, which contains eight subdivisions: 1) pH, 2) Temperature, 3) folding type (2S: two-state; 2S* two-state with high-energy intermediate), 4) the ln(kf) reported, 5) the ln(kf) value after the temperature correction, which has two columns  (see the manuscript for the detailed explanation) 6) the ln(ku) value reported, 7) the ln(ku) value after the temperature correction, which has two columns  (see the manuscript for the detailed explanation) and 8) the Tanford β value (βT)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Column 9: ACPro and Garbuzynskiy (AG) dataset, which contains four subdivisions: 1) pH, 2) temperature, 3) folding type and 4) ln(kf). If the values provided in the present dataset and the AG dataset were the same, they are represented as “—”. Otherwise, values reported in the AG dataset are represented normally. If the present dataset is unique or had not been previously reported previously, it is represented as “NA”. Note: if the ACPro and Garbuzynskiy sets were identical, we reported those values in a single row. Otherwise, both the ACPro values and the Garbuzynskiy values are listed in the first and second rows, respectively.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Column 10: Comments, including descriptions concerning discrepancies between the present dataset and the AG dataset of specific proteins, where necessary.  ",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+References:,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,"Robinson, C. R.; Sauer, R. T., Equilibrium stability and sub-millisecond refolding of a designed single-chain Arc repressor. Biochemistry 1996, 35, 13878-84.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,"Gianni, S.; Guydosh, N. R.; Khan, F.; Caldas, T. D.; Mayor, U.; White, G. W.; DeMarco, M. L.; Daggett, V.; Fersht, A. R., Unifying features in protein-folding mechanisms. Proc Natl Acad Sci U S A 2003, 100, 13286-91.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,"Scott, K. A.; Batey, S.; Hooton, K. A.; Clarke, J., The folding of spectrin domains I: wild-type domains have the same stability but very different kinetic properties. J Mol Biol 2004, 344, 195-205.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,"Steward, A.; McDowell, G. S.; Clarke, J., Topology is the principal determinant in the folding of a complex all-alpha Greek key death domain from human FADD. J Mol Biol 2009, 389, 425-437.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,"Maxwell, K. L.; Wildes, D.; Zarrine-Afsar, A.; De Los Rios, M. A.; Brown, A. G.; Friel, C. T.; Hedberg, L.; Horng, J. C.; Bona, D.; Miller, E. J.; Vallee-Belisle, A.; Main, E. R.; Bemporad, F.; Qiu, L.; Teilum, K.; Vu, N. D.; Edwards, A. M.; Ruczinski, I.; Poulsen, F. M.; Kragelund, B. B.; Michnick, S. W.; Chiti, F.; Bai, Y.; Hagen, S. J.; Serrano, L.; Oliveberg, M.; Raleigh, D. P.; Wittung-Stafshede, P.; Radford, S. E.; Jackson, S. E.; Sosnick, T. R.; Marqusee, S.; Davidson, A. R.; Plaxco, K. W., Protein folding: defining a ""standard"" set of experimental conditions and a preliminary kinetic data set of two-state proteins. Protein Sci 2005, 14, 602-16.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,"Jones, K.; Wittung-Stafshede, P., The largest protein observed to fold by two-state kinetic mechanism does not obey contact-order correlation. J Am Chem Soc 2003, 125, 9606-7.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,"Wang, T.; Zhu, Y.; Gai, F., Folding of a three-helix bundle at the folding speed limit. The Journal of Physical Chemistry B 2004, 108, 3694-3697.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,"Sato, S.; Religa, T. L.; Fersht, A. R., Φ-Analysis of the folding of the B domain of protein a using multiple optical probes. J Mol Biol 2006, 360, 850-864.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,"Myers, J. K.; Oas, T. G., Preorganized secondary structure as an important determinant of fast protein folding. Nature Structural and Molecular Biology 2001, 8, 552.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,"Teilum, K.; Thormann, T.; Caterer, N. R.; Poulsen, H. I.; Jensen, P. H.; Knudsen, J.; Kragelund, B. B.; Poulsen, F. M., Different secondary structure elements as scaffolds for protein folding transition states of two homologous four‐helix bundles. Proteins: Structure, Function, and Bioinformatics 2005, 59, 80-90.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,"Kubelka, J.; Eaton, W. A.; Hofrichter, J., Experimental tests of villin subdomain folding simulations. J Mol Biol 2003, 329, 625-30.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,"Ferguson, N.; Sharpe, T. D.; Johnson, C. M.; Fersht, A. R., The transition state for folding of a peripheral subunit-binding domain contains robust and ionic-strength dependent characteristics. J Mol Biol 2006, 356, 1237-47.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,"Spector, S.; Raleigh, D. P., Submillisecond folding of the peripheral subunit-binding domain1. Journal of molecular biology 1999, 293, 763-768.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,"Sharpe, T. D.; Ferguson, N.; Johnson, C. M.; Fersht, A. R., Conservation of transition state structure in fast folding peripheral subunit-binding domains. J Mol Biol 2008, 383, 224-37.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,"Chu, R.; Pei, W.; Takei, J.; Bai, Y., Relationship between the native-state hydrogen exchange and folding pathways of a four-helix bundle protein. Biochemistry 2002, 41, 7998-8003.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,"Zhu, Y.; Alonso, D. O.; Maki, K.; Huang, C. Y.; Lahr, S. J.; Daggett, V.; Roder, H.; DeGrado, W. F.; Gai, F., Ultrafast folding of alpha3D: a de novo designed three-helix bundle protein. Proc Natl Acad Sci U S A 2003, 100, 15486-91.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,"Scaloni, F.; Federici, L.; Brunori, M.; Gianni, S., Deciphering the folding transition state structure and denatured state properties of nucleophosmin C-terminal domain. Proc Natl Acad Sci U S A 2010, 107, 5447-52.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,"Neuweiler, H.; Sharpe, T. D.; Johnson, C. M.; Teufel, D. P.; Ferguson, N.; Fersht, A. R., Downhill versus barrier-limited folding of BBL 2: mechanistic insights from kinetics of folding monitored by independent tryptophan probes. J Mol Biol 2009, 387, 975-85.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,"Neuweiler, H.; Sharpe, T. D.; Rutherford, T. J.; Johnson, C. M.; Allen, M. D.; Ferguson, N.; Fersht, A. R., The folding mechanism of BBL: Plasticity of transition-state structure observed within an ultrafast folding protein family. J Mol Biol 2009, 390, 1060-73.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,"Dodson, C. A.; Arbely, E., Protein folding of the SAP domain, a naturally occurring two-helix bundle. FEBS Lett 2015, 589, 1740-7.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,"Troilo, F.; Bonetti, D.; Toto, A.; Visconti, L.; Brunori, M.; Longhi, S.; Gianni, S., The Folding Pathway of the KIX Domain. ACS Chem Biol 2017, 12, 1683-1690.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,"Dong, H.; Mukaiyama, A.; Tadokoro, T.; Koga, Y.; Takano, K.; Kanaya, S., Hydrophobic effect on the stability and folding of a hyperthermophilic protein. J Mol Biol 2008, 378, 264-72.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,"Lowe, A. R.; Itzhaki, L. S., Rational redesign of the folding pathway of a modular protein. Proc Natl Acad Sci U S A 2007, 104, 2679-84.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,"Li, Y.; Gupta, R.; Cho, J. H.; Raleigh, D. P., Mutational analysis of the folding transition state of the C-terminal domain of ribosomal protein L9: a protein with an unusual beta-sheet topology. Biochemistry 2007, 46, 1013-21.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,"Seeliger, M.; Breward, S.; Itzhaki, L., Weak cooperativity in the core causes a switch in folding mechanism between two proteins of the cks family. J Mol Biol 2003, 325, 189-199.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,"Nickson, A. A.; Stoll, K. E.; Clarke, J., Folding of a LysM domain: entropy-enthalpy compensation in the transition state of an ideal two-state folder. J Mol Biol 2008, 380, 557-69.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,"Van Nuland, N. A.; Meijberg, W.; Warner, J.; Forge, V.; Scheek, R. M.; Robillard, G. T.; Dobson, C. M., Slow cooperative folding of a small globular protein HPr. Biochemistry 1998, 37, 622-37.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,"Campbell-Valois, F.-X.; Michnick, S., The transition state of the ras binding domain of Raf is structurally polarized based on Φ-values but is energetically diffuse. J Mol Biol 2007, 365, 1559-1577.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,"Chen, P.; Evans, C.-L.; Hirst, J. D.; Searle, M. S., Structural insights into the two sequential folding transition states of the PB1 domain of NBR1 from φ value analysis and biased molecular dynamics simulations. Biochemistry 2010, 50, 125-135.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,"Olofsson, M.; Hansson, S.; Hedberg, L.; Logan, D. T.; Oliveberg, M., Folding of S6 structures with divergent amino acid composition: pathway flexibility within partly overlapping foldons. J Mol Biol 2007, 365, 237-248.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,"Taddei, N.; Chiti, F.; Paoli, P.; Fiaschi, T.; Bucciantini, M.; Stefani, M.; Dobson, C. M.; Ramponi, G., Thermodynamics and kinetics of folding of common-type acylphosphatase: comparison to the highly homologous muscle isoenzyme. Biochemistry 1999, 38, 2135-42.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,"Manyusa, S.; Whitford, D., Defining folding and unfolding reactions of apocytochrome b 5 using equilibrium and kinetic fluorescence measurements. Biochemistry 1999, 38, 9533-9540.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,"Bonetti, D.; Toto, A.; Giri, R.; Morrone, A.; Sanfelice, D.; Pastore, A.; Temussi, P.; Gianni, S.; Brunori, M., The kinetics of folding of frataxin. Phys Chem Chem Phys 2014, 16, 6391-7.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,"DeVries, I.; Ferreiro, D. U.; Sanchez, I. E.; Komives, E. A., Folding kinetics of the cooperatively folded subdomain of the IkappaBalpha ankyrin repeat domain. J Mol Biol 2011, 408, 163-76.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+35,"Guerois, R.; Serrano, L., The SH3-fold family: experimental evidence and prediction of variations in the folding pathways. J Mol Biol 2000, 304, 967-82.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,"Ikura, T.; Hayano, T.; Takahashi, N.; Kuwajima, K., Fast folding of Escherichia coli cyclophilin A: a hypothesis of a unique hydrophobic core with a phenylalanine cluster. J Mol Biol 2000, 297, 791-802.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,"Wenk, M.; Jaenicke, R.; Mayr, E. M., Kinetic stabilisation of a modular protein by domain interactions. FEBS Lett 1998, 438, 127-30.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,"Perl, D.; Welker, C.; Schindler, T.; Schroder, K.; Marahiel, M. A.; Jaenicke, R.; Schmid, F. X., Conservation of rapid two-state folding in mesophilic, thermophilic and hyperthermophilic cold shock proteins. Nat Struct Biol 1998, 5, 229-35.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,"Petrovich, M.; Jonsson, A. L.; Ferguson, N.; Daggett, V.; Fersht, A. R., Phi-analysis at the experimental limits: mechanism of beta-hairpin formation. J Mol Biol 2006, 360, 865-81.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,"Ferguson, N.; Johnson, C. M.; Macias, M.; Oschkinat, H.; Fersht, A., Ultrafast folding of WW domains without structured aromatic clusters in the denatured state. Proc Natl Acad Sci U S A 2001, 98, 13002-13007.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41,"Wong, H. J.; Stathopulos, P. B.; Bonner, J. M.; Sawyer, M.; Meiering, E. M., Non-linear effects of temperature and urea on the thermodynamics and kinetics of folding and unfolding of hisactophilin. J Mol Biol 2004, 344, 1089-107.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,"Liu, C.; Gaspar, J. A.; Wong, H. J.; Meiering, E. M., Conserved and nonconserved features of the folding pathway of hisactophilin, a beta-trefoil protein. Protein Sci 2002, 11, 669-79.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,"Korzhnev, D. M.; Neudecker, P.; Zarrine-Afsar, A.; Davidson, A. R.; Kay, L. E., Abp1p and Fyn SH3 domains fold through similar low-populated intermediate states. Biochemistry 2006, 45, 10175-10183.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+44,"Lappalainen, I.; Hurley, M. G.; Clarke, J., Plasticity within the obligatory folding nucleus of an immunoglobulin-like domain. J Mol Biol 2008, 375, 547-559.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,"Naik, M. T.; Chang, Y. C.; Huang, T. H., Folding kinetics of the lipoic acid-bearing domain of human mitochondrial branched chain alpha-ketoacid dehydrogenase complex. FEBS Lett 2002, 530, 133-8.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,"Calosci, N.; Chi, C. N.; Richter, B.; Camilloni, C.; Engstrom, A.; Eklund, L.; Travaglini-Allocatelli, C.; Gianni, S.; Vendruscolo, M.; Jemth, P., Comparison of successive transition states for folding reveals alternative early folding pathways of two homologous proteins. Proc Natl Acad Sci U S A 2008, 105, 19241-6.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,"Reid, K. L.; Rodriguez, H. M.; Hillier, B. J.; Gregoret, L. M., Stability and folding properties of a model beta-sheet protein, Escherichia coli CspA. Protein Sci 1998, 7, 470-9.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,"Jager, M.; Nguyen, H.; Crane, J. C.; Kelly, J. W.; Gruebele, M., The folding mechanism of a beta-sheet: the WW domain. J Mol Biol 2001, 311, 373-93.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+49,"Dasgupta, A.; Udgaonkar, J. B., Evidence for initial non-specific polypeptide chain collapse during the refolding of the SH3 domain of PI3 kinase. J Mol Biol 2010, 403, 430-45.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+50,"Dasgupta, A.; Udgaonkar, J. B., Four-state folding of a SH3 domain: salt-induced modulation of the stabilities of the intermediates and native state. Biochemistry 2012, 51, 4723-34.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+51,"Roumestand, C.; Boyer, M.; Guignard, L.; Barthe, P.; Royer, C. A., Characterization of the folding and unfolding reactions of a small beta-barrel protein of novel topology, the MTCP1 oncogene product P13. J Mol Biol 2001, 312, 247-59.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52,"Kim, J.; Brych, S. R.; Lee, J.; Logan, T. M.; Blaber, M., Identification of a key structural element for protein folding within β-hairpin turns. J Mol Biol 2003, 328, 951-961.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,"Korzhnev, D. M.; Salvatella, X.; Vendruscolo, M.; Di Nardo, A. A.; Davidson, A. R.; Dobson, C. M.; Kay, L. E., Low-populated folding intermediates of Fyn SH3 characterized by relaxation dispersion NMR. Nature 2004, 430, 586-90.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+54,"Neudecker, P.; Lundström, P.; Kay, L. E., Relaxation dispersion NMR spectroscopy as a tool for detailed studies of protein folding. Biophysical journal 2009, 96, 2045-2054.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,"Neudecker, P.; Zarrine-Afsar, A.; Choy, W.-Y.; Muhandiram, D. R.; Davidson, A. R.; Kay, L. E., Identification of a collapsed intermediate with non-native long-range interactions on the folding pathway of a pair of Fyn SH3 domain mutants by NMR relaxation dispersion spectroscopy. Journal of molecular biology 2006, 363, 958-976.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,"Petzold, K.; Öhman, A.; Backman, L., Folding of the αΙΙ-spectrin SH3 domain under physiological salt conditions. Archives of biochemistry and biophysics 2008, 474, 39-47.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,"Li, J.; Matsumura, Y.; Shinjo, M.; Kojima, M.; Kihara, H., A stable α-helix-rich intermediate is formed by a single mutation of the β-sheet protein, src SH3, at pH 3. Journal of molecular biology 2007, 372, 747-755.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,"Li, J.; Shinjo, M.; Matsumura, Y.; Morita, M.; Baker, D.; Ikeguchi, M.; Kihara, H., An α-helical burst in the src SH3 folding pathway. Biochemistry 2007, 46, 5072-5082.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,"Grantcharova, V. P.; Riddle, D. S.; Santiago, J. V.; Baker, D., Important role of hydrogen bonds in the structurally polarized transition state for folding of the src SH3 domain. Nature Structural and Molecular Biology 1998, 5, 714.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,"Hamill, S. J.; Steward, A.; Clarke, J., The folding of an immunoglobulin-like Greek key protein is defined by a common-core nucleus and regions constrained by topology. J Mol Biol 2000, 297, 165-178.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+61,"Clarke, J.; Hamill, S. J.; Johnson, C. M., Folding and stability of a fibronectin type III domain of human tenascin. J Mol Biol 1997, 270, 771-8.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62,"Clarke, J.; Cota, E.; Fowler, S. B.; Hamill, S. J., Folding studies of immunoglobulin-like β-sandwich proteins suggest that they share a common folding pathway. Structure 1999, 7, 1145-1153.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,"Plaxco, K. W.; Spitzfaden, C.; Campbell, I. D.; Dobson, C. M., A comparison of the folding kinetics and thermodynamics of two homologous fibronectin type III modules. J Mol Biol 1997, 270, 763-70.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,"Gianni, S.; Calosci, N.; Aelen, J. M.; Vuister, G. W.; Brunori, M.; Travaglini-Allocatelli, C., Kinetic folding mechanism of PDZ2 from PTP-BL. Protein Eng Des Sel 2005, 18, 389-95.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,"Candel, A. M.; Cobos, E. S.; Conejero-Lara, F.; Martinez, J. C., Evaluation of folding co-operativity of a chimeric protein based on the molecular recognition between polyproline ligands and SH3 domains. Protein Eng Des Sel 2009, 22, 597-606.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66,"Estape, D.; Rinas, U., Folding kinetics of the all-beta-sheet protein human basic fibroblast growth factor, a structural homolog of interleukin-1beta. J Biol Chem 1999, 274, 34083-8.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67,"Chi, C. N.; Gianni, S.; Calosci, N.; Travaglini-Allocatelli, C.; Engstrom, K.; Jemth, P., A conserved folding mechanism for PDZ domains. FEBS Lett 2007, 581, 1109-13.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+68,"Lee, J.; Blaber, S. I.; Dubey, V. K.; Blaber, M., A polypeptide “building block” for the β-trefoil fold identified by “top-down symmetric deconstruction”. Journal of molecular biology 2011, 407, 744-763.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69,"Fung, A.; Li, P.; Godoy-Ruiz, R.; Sanchez-Ruiz, J. M.; Munoz, V., Expanding the realm of ultrafast protein folding: gpW, a midsize natural single-domain with alpha+beta topology that folds downhill. J Am Chem Soc 2008, 130, 7489-95.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+70,"Haq, S. R.; Jurgens, M. C.; Chi, C. N.; Koh, C. S.; Elfstrom, L.; Selmer, M.; Gianni, S.; Jemth, P., The plastic energy landscape of protein folding: a triangular folding mechanism with an equilibrium intermediate for a small protein domain. J Biol Chem 2010, 285, 18051-9.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71,"Campos, L. A.; Muñoz, V., Reply to Huang et al.: Slow proton exchange can duplicate the number of species observed in single-molecule experiments of protein folding. Proceedings of the National Academy of Sciences 2013, 110, E1242-E1243.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72,"Liu, J.; Campos, L. A.; Cerminara, M.; Wang, X.; Ramanathan, R.; English, D. S.; Muñoz, V., Exploring one-state downhill protein folding in single molecules. Proceedings of the National Academy of Sciences 2012, 109, 179-184.",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,42 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+1ebd_A          AIETETLVVGAGPGGYVAAIRAAQLGQKVTIVEKGNLGGVCLNVGCIPSKALISASHRYE 60
+1ebd_B          AIETETLVVGAGPGGYVAAIRAAQLGQKVTIVEKGNLGGVCLNVGCIPSKALISASHRYE 60
+1ebd_C          ------------------------------------------------------------
+                                                                            
+
+1ebd_A          QAKHSEEMGIKAENVTIDFAKVQEWKASVVKKLTGGVEGLLKGNKVEIVKGEAYFVDANT 120
+1ebd_B          QAKHSEEMGIKAENVTIDFAKVQEWKASVVKKLTGGVEGLLKGNKVEIVKGEAYFVDANT 120
+1ebd_C          ----------------IAMPSVRKYAR------EKGVD---------------------- 16
+                                * :..*:::          **:                      
+
+1ebd_A          VRVVNGDSAQTYTFKNAIIATGSRPIELPNFKFSNRILDSTGALNLGEVPKSLVVIGGGY 180
+1ebd_B          VRVVNGDSAQTYTFKNAIIATGSRPIELPNFKFSNRILDSTGALNLGEVPKSLVVIGGGY 180
+1ebd_C          IRLVQG--------------TGK----------NGRVLKED--IDA--------FLAGG- 41
+                :*:*:*              **.          ..*:*..   ::         .:.** 
+
+1ebd_A          IGIELGTAYANFGTKVTILEGAGEILSGFEKQMAAIIKKRLKKKGVEVVTNALAKGAEER 240
+1ebd_B          IGIELGTAYANFGTKVTILEGAGEILSGFEKQMAAIIKKRLKKKGVEVVTNALAKGAEER 240
+1ebd_C          ------------------------------------------------------------
+                                                                            
+
+1ebd_A          EDGVTVTYEANGETKTIDADYVLVTVGRRPNTDELGLEQIGIKMTNRGLIEVDQQCRTSV 300
+1ebd_B          EDGVTVTYEANGETKTIDADYVLVTVGRRPNTDELGLEQIGIKMTNRGLIEVDQQCRTSV 300
+1ebd_C          ------------------------------------------------------------
+                                                                            
+
+1ebd_A          PNIFAIGDIVPGPALAHKASYEGKVAAEAIAGHPSAVDYVAIPAVVFSDPECASVGYFEQ 360
+1ebd_B          PNIFAIGDIVPGPALAHKASYEGKVAAEAIAGHPSAVDYVAIPAVVFSDPECASVGYFEQ 360
+1ebd_C          ------------------------------------------------------------
+                                                                            
+
+1ebd_A          QAKDEGIDVIAAKFPFAANGRALALNDTDGFLKLVVRKEDGVIIGAQIIGPNASDMIAEL 420
+1ebd_B          QAKDEGIDVIAAKFPFAANGRALALNDTDGFLKLVVRKEDGVIIGAQIIGPNASDMIAEL 420
+1ebd_C          ------------------------------------------------------------
+                                                                            
+
+1ebd_A          GLAIEAGMTAEDIALTIHAHPTLGEIAMEAAEVAL 455
+1ebd_B          GLAIEAGMTAEDIALTIHAHPTLGEIAMEAAEVAL 455
+1ebd_C          -----------------------------------
+                                                   
