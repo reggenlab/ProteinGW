@@ -1,4 +1,9 @@
 "# ProteinGW version" 
+ProteinGW :
+A graph-wavelet based method to model biophysical properties of proteins by computing physicochemical signal of amino-acid in protein residue network. 
+ProteinGW also provides scores of influence of each amino-acids on the biophysical property being modelled. This estimate of influence of amino-acid on 
+the biophysical-property of a protein helps get insight of effect of missense mutations for diseases. Another application of ProteinGW demonstrated is it 
+can help in measuring possible effect of disease associated mutations on proteins using protein property. 
 
 One needs to have python 3.0+, python2.0+ installed in their machine. Following are the dependencies of the code :
 Bio
