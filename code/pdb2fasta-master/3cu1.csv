@@ -1,6 +1,6 @@
 Sequence lignfile not found in alignment. Using default output format...
 
-# ./pdb2fasta-master/3CU1.fasta -- js_divergence - window_size: 3 - background: blosum62 - seq. weighting: True - gap penalty: 1 - normalized: False
+# ./pdb2fasta-master/3cu1.fasta -- js_divergence - window_size: 3 - background: blosum62 - seq. weighting: True - gap penalty: 1 - normalized: False
 # align_column_number	score	column
 
 0	0.87634	N
@@ -12,13 +12,13 @@ Sequence lignfile not found in alignment. Using default output format...
 6	0.90139	W
 7	0.86181	T
 8	0.87241	N
-9	0.85615	T
-10	0.84339	E
-11	0.84584	K
-12	0.84844	R
-13	0.83534	E
-14	0.84459	K
-15	0.84540	R
+9	0.86157	T
+10	0.84881	E
+11	0.85126	K
+12	0.88099	M
+13	0.84077	E
+14	0.85002	K
+15	0.85083	R
 16	0.80827	L
 17	0.87072	H
 18	0.81824	A
@@ -36,16 +36,16 @@ Sequence lignfile not found in alignment. Using default output format...
 30	0.85423	P
 31	0.82453	A
 32	0.82212	G
-33	0.81669	G
-34	0.85280	N
-35	0.85471	P
-36	0.85259	R
-37	0.86540	P
-38	0.86029	T
-39	0.85568	R
-40	0.85479	R
-41	0.89430	W
-42	0.81702	L
+33	0.82212	G
+34	0.85823	N
+35	0.86014	P
+36	0.89057	M
+37	0.87625	P
+38	0.87114	T
+39	0.89366	M
+40	0.86021	R
+41	0.89973	W
+42	0.82244	L
 43	0.84517	K
 44	0.85763	N
 45	0.81499	G
@@ -68,13 +68,13 @@ Sequence lignfile not found in alignment. Using default output format...
 62	0.88333	Q
 63	0.88985	H
 64	0.90104	W
-65	0.85292	S
-66	0.82180	L
-67	0.83902	I
-68	0.83728	R
-69	0.82799	E
-70	0.83619	S
-71	0.82581	V
+65	0.85835	S
+66	0.82722	L
+67	0.84445	I
+68	0.86983	M
+69	0.83342	E
+70	0.84162	S
+71	0.83123	V
 72	0.82562	V
 73	0.85162	P
 74	0.83313	S

@@ -1,6 +1,6 @@
 Sequence lignfile not found in alignment. Using default output format...
 
-# ./pdb2fasta-master/3krj.fasta -- js_divergence - window_size: 3 - background: blosum62 - seq. weighting: True - gap penalty: 1 - normalized: False
+# ./pdb2fasta-master/3KRJ.fasta -- js_divergence - window_size: 3 - background: blosum62 - seq. weighting: True - gap penalty: 1 - normalized: False
 # align_column_number	score	column
 
 0	0.87171	P
@@ -174,13 +174,13 @@ Sequence lignfile not found in alignment. Using default output format...
 168	0.84324	D
 169	0.82807	V
 170	0.81995	A
-171	0.81635	A
-172	0.83263	R
-173	0.83892	N
-174	0.81536	V
-175	0.80628	L
-176	0.80094	L
-177	0.83420	T
+171	0.81539	A
+172	0.83167	R
+173	0.83796	N
+174	0.80960	A
+175	0.80532	L
+176	0.79998	L
+177	0.83324	T
 178	0.84719	N
 179	0.81322	G
 180	0.87175	H

@@ -1,6 +1,6 @@
 Sequence lignfile not found in alignment. Using default output format...
 
-# ./pdb2fasta-master/4et7.fasta -- js_divergence - window_size: 3 - background: blosum62 - seq. weighting: True - gap penalty: 1 - normalized: False
+# ./pdb2fasta-master/4ET7.fasta -- js_divergence - window_size: 3 - background: blosum62 - seq. weighting: True - gap penalty: 1 - normalized: False
 # align_column_number	score	column
 
 0	0.87634	N
@@ -34,19 +34,19 @@ Sequence lignfile not found in alignment. Using default output format...
 28	0.81175	G
 29	0.83136	E
 30	0.82375	V
-31	0.84607	D
-32	0.84065	E
-33	0.86007	N
-34	0.86872	Y
-35	0.83491	A
-36	0.86589	P
-37	0.85013	I
-38	0.88582	H
-39	0.85718	T
-40	0.88110	Y
-41	0.88214	Q
-42	0.83894	V
-43	0.89022	C
+31	0.84822	D
+32	0.84280	E
+33	0.86222	N
+34	0.88161	C
+35	0.83706	A
+36	0.86803	P
+37	0.85443	I
+38	0.88797	H
+39	0.85933	T
+40	0.89399	C
+41	0.88429	Q
+42	0.84109	V
+43	0.89237	C
 44	0.85392	K
 45	0.84039	V
 46	0.89100	M
@@ -95,14 +95,14 @@ Sequence lignfile not found in alignment. Using default output format...
 89	0.84694	K
 90	0.85154	E
 91	0.86119	T
-92	0.86915	F
-93	0.87621	N
-94	0.89666	M
-95	0.88521	Y
-96	0.88249	Y
-97	0.87056	F
-98	0.85134	E
-99	0.85134	S
+92	0.87130	F
+93	0.88050	N
+94	0.90096	M
+95	0.90025	C
+96	0.89753	C
+97	0.87485	F
+98	0.85563	E
+99	0.85348	S
 100	0.85614	D
 101	0.84949	D
 102	0.86820	Q
@@ -112,13 +112,13 @@ Sequence lignfile not found in alignment. Using default output format...
 106	0.85735	N
 107	0.83826	I
 108	0.85209	K
-109	0.85274	E
-110	0.86543	N
-111	0.87346	Q
-112	0.87241	Y
-113	0.84758	I
-114	0.85019	K
-115	0.83977	I
+109	0.85489	E
+110	0.86757	N
+111	0.87560	Q
+112	0.88530	C
+113	0.84973	I
+114	0.85234	K
+115	0.84192	I
 116	0.84071	D
 117	0.83540	T
 118	0.83002	I
@@ -152,13 +152,13 @@ Sequence lignfile not found in alignment. Using default output format...
 146	0.80289	L
 147	0.82757	S
 148	0.83684	K
-149	0.83863	K
-150	0.81639	G
-151	0.84647	F
-152	0.85855	Y
-153	0.81280	L
-154	0.82869	A
-155	0.85310	F
+149	0.84078	K
+150	0.81854	G
+151	0.84862	F
+152	0.87144	C
+153	0.81495	L
+154	0.83083	A
+155	0.85525	F
 156	0.85436	Q
 157	0.83921	D
 158	0.83210	V
@@ -170,10 +170,10 @@ Sequence lignfile not found in alignment. Using default output format...
 164	0.80385	L
 165	0.81395	V
 166	0.82319	S
-167	0.82012	V
-168	0.84812	R
-169	0.83281	V
-170	0.86721	Y
-171	0.89311	Y
+167	0.82227	V
+168	0.85241	R
+169	0.83711	V
+170	0.88225	C
+171	0.91889	C
 172	0.84304	K
 173	0.83674	E
