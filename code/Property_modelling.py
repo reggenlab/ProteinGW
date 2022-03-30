@@ -27,6 +27,7 @@ from sklearn.metrics import matthews_corrcoef
 from sklearn import metrics  
 from sklearn.metrics import roc_auc_score
 from scipy import stats
+import traceback
 
 amino_lookup = {'CYS': 'C', 'ASP': 'D', 'SER': 'S', 'GLN': 'Q', 'LYS': 'K',
 	 'ILE': 'I', 'PRO': 'P', 'THR': 'T', 'PHE': 'F', 'ASN': 'N',
