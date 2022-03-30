@@ -16,6 +16,7 @@ numpy, pandas <br />
 
 One can download the whole folder from our website http://reggen.iiitd.edu.in:1207/ProteinGW/ <br>
 or more information about tool can be accessed from this website.
+User can also download the dataset from http://reggen.iiitd.edu.in:1207/ProteinGW/ProteinGW/
 
 <br />
 You have to download python code in your local machine/server. For execution you have to pass parameters for each choice of task to perform. <br />
