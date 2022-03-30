@@ -717,7 +717,7 @@ def main(argv):
 				#scores.append(corr)
 				rmse = np.sqrt(mean_squared_error(y_test,model.predict(X_test)))
 				#scores = np.array(scores)
-				print("Accuracy: ", corr)
+				print("R score: ", corr)
 
 				#rmse = np.array(rmse)
 				print("RMSE: ", rmse)
