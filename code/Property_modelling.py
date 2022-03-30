@@ -780,5 +780,7 @@ def main(argv):
 			file = open('disease_residue_score.txt', 'wt')
 			file.write(str(final_dict))
 			file.close()
+			print(final_dict)
+			print('Mutation residue scores saved in file disease_residue_score.txt')
 if __name__ == "__main__":
 	main(sys.argv[1:])
