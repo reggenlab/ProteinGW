@@ -500,7 +500,7 @@ def main(argv):
 
 				# print classification report 
 				print(classification_report(y_test, y_pred)) 
-				print("AUCROC",roc_auc_score(y_test, clf.predict(X_test), multi_class='ovr'))
+				print("AUCROC",roc_auc_score(y_test, clf.predict(X_test)))
 				print("MCC :",matthews_corrcoef(y_test, y_pred))
 
 		elif property == 'transmembrane-globular':
