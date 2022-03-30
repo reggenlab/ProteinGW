@@ -691,7 +691,7 @@ def main(argv):
 			y = gsp_features['class']
 			
 			X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.10)
-			if choice == 1:
+			if choice == '1':
 				if ML_model == 'random-forest':
 					model = RandomForestRegressor(n_estimators=1000)
 				elif ML_model == 'linear':
