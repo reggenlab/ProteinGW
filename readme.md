@@ -21,7 +21,7 @@ ProteinGW has 3 choices of task that can be performed : <br />
 2. Extracting information/scores of most important features for a property <br />
 3. Linking cause of disease causing variant <br />
 
-Note : The script Property_modelling.py is in "code" folder. Please cd into the directory to run following command. <br/>
+Note : The script Property_modelling.py is in "code" folder. Please cd into the "code" directory to run following command. <br/>
 USE THE FOLLOWING COMMANDS : <br />
 ```bash
 python3 Property_modelling.py -p <property> -m <ML_model> -c <Choice of Task to perform>
