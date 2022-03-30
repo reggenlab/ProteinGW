@@ -587,7 +587,7 @@ def main(argv):
 				#print("ACCURACY OF THE MODEL: ", metrics.accuracy_score(y_test, y_pred)) 
 				# print classification report 
 				print(classification_report(y_test, y_pred)) 
-				print("AUCROC",roc_auc_score(y_test, clf.predict(X_test), multi_class='ovr'))
+				print("AUCROC",roc_auc_score(y_test, clf.predict(X_test)))
 				print("MCC :",matthews_corrcoef(y_test, y_pred))
 
 		elif property == 'solubility':
@@ -655,7 +655,7 @@ def main(argv):
 				#print("ACCURACY OF THE MODEL: ", metrics.accuracy_score(y_test, y_pred)) 
 				# print classification report 
 				print(classification_report(y_test, y_pred)) 
-				print("AUCROC",roc_auc_score(y_test, clf.predict(X_test), multi_class='ovr'))
+				print("AUCROC",roc_auc_score(y_test, clf.predict(X_test)))
 				print("MCC score :",matthews_corrcoef(y_test, y_pred))
 				
 		elif property == 'protein-folding-rate':
