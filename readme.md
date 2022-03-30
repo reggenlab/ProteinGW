@@ -5,7 +5,7 @@ ProteinGW also provides scores of influence of each amino-acids on the biophysic
 the biophysical-property of a protein helps get insight of effect of missense mutations for diseases. Another application of ProteinGW demonstrated is it 
 can help in measuring possible effect of disease associated mutations on proteins using protein property. 
 <br />
-One needs to have python 3.0+, python2.0+ installed in their machine. Following are the dependencies of the code : <br />
+One needs to have python 3.6+ installed in their machine. Following are the dependencies of the code : <br />
 biopython (https://biopython.org/)<br />
 scipy <br />
 pygsp (https://pygsp.readthedocs.io/en/stable/) <br />
