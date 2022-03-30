@@ -30,7 +30,7 @@ USE THE FOLLOWING COMMANDS : <br />
 ```bash
 python3 Property_modelling.py -p <property> -m <ML_model> -c <Choice of Task to perform>
 e.g.
-python3 Property_modelling.py -p solubility -m SVM -c 1
+python3 Property_modelling.py -p alpha-beta -m SVM -c 1
 ```
 Options for Properties (-p) are : "protein-folding-rate" , "solubility" , "transmembrane-globular" , "alpha-beta" <br />
 Here, protein-folding-rate is a regression task while Solubility, transmembrane-globular, alpha-beta are classfication models. <br />
