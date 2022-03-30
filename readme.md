@@ -38,8 +38,7 @@ Classification task (Solubility, transmembrane-globular, alpha-beta) :  <br />
 Regression task (protein-folding-rate) :  <br />
 'random-forest' , 'linear' , 'ridge' , 'lasso' , 'decision-tree' , 'KNN' , 'elastic-net' <br />
 
-Options for choice (-c) are : '1', '2', '3' <br />
-
+Options for choice (-c) are : '1' (Modelling Protein Properties), '2' (Extracting information/scores of most important features for a property), '3' (Extracting information/scores of most important features for a property)<br />
 For task 1 Following parameters are : -p <property> , -m <ML_model> -c 1  <br />
 For task 2 following parameters are : -p <property> , -c 2 <br />
 For task 3 following parameters are : -p <property> , -c 3 (-p options are : "protein-folding-rate" , "transmembrane-globular" )  <br />
