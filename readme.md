@@ -12,7 +12,7 @@ pygsp (https://pygsp.readthedocs.io/en/stable/) <br />
 networkx <br />
 sklearn <br />
 matplotlib <br />
-numoy, pandas <br />
+numpy, pandas <br />
 
 <br />
 You have to download python code in your local machine/server. For execution you have to pass parameters for each choice of task to perform. <br />
