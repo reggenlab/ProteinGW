@@ -6,9 +6,9 @@ the biophysical-property of a protein helps get insight of effect of missense mu
 can help in measuring possible effect of disease associated mutations on proteins using protein property. 
 <br />
 One needs to have python 3.0+, python2.0+ installed in their machine. Following are the dependencies of the code : <br />
-Bio <br />
+biopython (https://biopython.org/)<br />
 scipy <br />
-pygsp <br />
+pygsp (https://pygsp.readthedocs.io/en/stable/) <br />
 networkx <br />
 sklearn <br />
 matplotlib <br />
