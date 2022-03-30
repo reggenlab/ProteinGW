@@ -714,14 +714,14 @@ def main(argv):
 				#	 corr_matrix = numpy.corrcoef(y_test, model.predict(X_test))
 				corr_matrix = stats.spearmanr(y_test, model.predict(X_test))
 				corr = corr_matrix[0]
-				scores.append(corr)
-				rmse.append(np.sqrt(mean_squared_error(y_test,model.predict(X_test))))
+				#scores.append(corr)
+				rmse = np.sqrt(mean_squared_error(y_test,model.predict(X_test)))
+				#scores = np.array(scores)
+				print("Accuracy: ", corr)
 
-				scores = np.array(scores)
-				print("Accuracy: %0.2f (+/- %0.2f)" % (scores.mean(), scores.std() * 2))
+				#rmse = np.array(rmse)
+				print("RMSE: ", rmse)
 
-				rmse = np.array(rmse)
-				print("Accuracy: %0.2f (+/- %0.2f)" % (rmse.mean(), rmse.std() * 2))
 
 		if choice == '2':
 			if property == 'protein-folding-rate':
