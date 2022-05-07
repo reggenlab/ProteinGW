@@ -44,6 +44,9 @@ Regression task (protein-folding-rate) :  <br />
 
 Options for choice (-c) are : '1' (Modelling Protein Properties), '2' (Extracting information/scores of most important features for a property), '3' (Extracting information/scores of most important features for a property)<br />
 For task 1 Following parameters are : -p <property> , -m <ML_model> -c 1  <br />
+  Output of this task is shown in table format i.e The accuracy, F1-score, Precision, Recall of model for all classes. <br />
 For task 2 following parameters are : -p <property> , -c 2 <br />
+  Output of this task is saved as file named "feature_importance.txt" and Bar plot named "feature_importance.png" in the code directory. <br/>
 For task 3 following parameters are : -p <property> , -c 3 (-p options are : "protein-folding-rate" , "transmembrane-globular" )  <br />
+  File named "disease_residue_score.txt" with percentile score of features with disease associated mutations.
 
