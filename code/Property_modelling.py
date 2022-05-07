@@ -752,9 +752,9 @@ def main(argv):
 				final_data.loc[k,'Feature Score'] = i
 				final_data.loc[k,'Feature Importance'] = i
 				k=k+1
-			final_data.to_csv("./feature_importance_protein_folding.txt",sep="\t",index=False)
+			final_data.to_csv("./feature_importance.txt",sep="\t",index=False)
 			print("Graph saved to directory with name -- feature_importance.png")
-			print("Feature importance scores saved to directory with name -- feature_importance_protein_folding.txt")
+			print("Feature importance scores saved to directory with name -- feature_importance.txt")
 		#Disease Residue Scores
 		if choice == '3':
 			print("")
