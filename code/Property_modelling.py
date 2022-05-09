@@ -28,6 +28,8 @@ from sklearn import metrics
 from sklearn.metrics import roc_auc_score
 from scipy import stats
 import traceback
+import warnings
+warnings.filterwarnings("ignore")
 
 amino_lookup = {'CYS': 'C', 'ASP': 'D', 'SER': 'S', 'GLN': 'Q', 'LYS': 'K',
 	 'ILE': 'I', 'PRO': 'P', 'THR': 'T', 'PHE': 'F', 'ASN': 'N',
@@ -423,7 +425,7 @@ def mutation_find_wavelet_coefficient(dictionary,residue_mutation,amino_lookup,s
                     if coeff_final[k,j,pos[m],dis[m]] == {}:
                                 del coeff_final[k,j,pos[m],dis[m]]  
             except:
-                traceback.print_exc()
+                print("")
     return coeff_final
 
 
