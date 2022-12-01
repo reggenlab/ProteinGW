@@ -656,7 +656,7 @@ blosum_background_distr = [0.078, 0.051, 0.041, 0.052, 0.024, 0.034, 0.059, 0.08
 window_size = 3 # 0 = no window
 win_lam = .5 # for window method linear combination
 outfile_name = ""
-s_matrix_file = "/home/cellsearch/cellatlassearch_shreya/graphwavelet+cnn/bhavay_project/pdb2fasta-master/conservation_code/matrix/blosum62.bla"
+s_matrix_file = "./pdb2fasta-master/conservation_code/matrix/blosum62.bla"
 bg_distribution = blosum_background_distr[:]
 scoring_function = js_divergence
 use_seq_weights = True
