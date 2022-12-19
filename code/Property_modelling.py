@@ -502,10 +502,10 @@ def mutation_find_wavelet_coefficient_diff(dictionary,residue_mutation,amino_loo
                         row1.extend(coeff1)
                     row.extend([gsp_features.loc[k,'class']])
                     gsp_features.loc[k] = row    
-                    model = RandomForestClassifier(n_estimators=1000)
-                    X = gsp_features[gsp_features.columns.difference(['class'])]
-                    y = gsp_features['class']
-                    model.fit(X, y)
+                    #model = RandomForestClassifier(n_estimators=1000)
+                    #X = gsp_features[gsp_features.columns.difference(['class'])]
+                    #y = gsp_features['class']
+                    #model.fit(X, y)
                     if cn<=4:print("Prob after mutation :",model.predict_proba(np.array(row1).reshape(1, -1))[0][1])
                     else:print("Prob after mutation :",model.predict_proba(np.array(row1).reshape(1, -1))[0][0])
                     cn=cn+1
