@@ -506,8 +506,8 @@ def mutation_find_wavelet_coefficient_diff(dictionary,residue_mutation,amino_loo
                     #X = gsp_features[gsp_features.columns.difference(['class'])]
                     #y = gsp_features['class']
                     #model.fit(X, y)
-                    if cn<=4:print("Prob after mutation :",model.predict_proba(np.array(row1).reshape(1, -1))[0][1])
-                    else:print("Prob after mutation :",model.predict_proba(np.array(row1).reshape(1, -1))[0][0])
+                    if cn<=4:print("Prob after mutation :",model.predict_proba(np.array(row1).reshape(1, -1))[0][0])
+                    else:print("Prob after mutation :",model.predict_proba(np.array(row1).reshape(1, -1))[0][1])
                     cn=cn+1
             except:
                 traceback.print_exc()
@@ -894,16 +894,16 @@ def main(argv):
 				m8 = 678-609
 				m9 = 653-609
 				m10 = 678-609
-				residue_mutation.loc[len(residue_mutation.index)] = [0, '3DZQ', 'Ile621Lys','-','Ile',m1,'Lys',''] 
-				residue_mutation.loc[len(residue_mutation.index)] = [1, '3DZQ', 'Thr660Lys','-','Thr',m2,'Lys',''] 
-				residue_mutation.loc[len(residue_mutation.index)] = [2, '3DZQ', 'Arg728Leu','-','Arg',m3,'Leu',''] 
-				residue_mutation.loc[len(residue_mutation.index)] = [3, '3DZQ', 'Gly766Glu','-','Gly',m4,'Glu',''] 
-				residue_mutation.loc[len(residue_mutation.index)] = [4, '3DZQ', 'Asp806Asn','-','Asp',m5,'Asn',''] 
-				residue_mutation.loc[len(residue_mutation.index)] = [5, '3DZQ', 'Ser792Pro','-','Ser',m6,'Pro',''] 
-				residue_mutation.loc[len(residue_mutation.index)] = [6, '3DZQ', 'Lys761Asn','-','Lys',m7,'Asn',''] 
-				residue_mutation.loc[len(residue_mutation.index)] = [7, '3DZQ', 'Asp678Glu','-','Asp',m8,'Glu','']
-				residue_mutation.loc[len(residue_mutation.index)] = [8, '3DZQ', 'Lys653Arg','-','Lys',m9,'Arg','']
-				residue_mutation.loc[len(residue_mutation.index)] = [9, '3DZQ', 'Asp678Glu','-','Asp',m10,'Glu','']
+				residue_mutation.loc[len(residue_mutation.index)] = [0, '3DZQ', 'Ser792Pro','-','Ser',m6,'Pro',''] 
+				residue_mutation.loc[len(residue_mutation.index)] = [1, '3DZQ', 'Lys761Asn','-','Lys',m7,'Asn',''] 
+				residue_mutation.loc[len(residue_mutation.index)] = [2, '3DZQ', 'Asp678Glu','-','Asp',m8,'Glu','']
+				residue_mutation.loc[len(residue_mutation.index)] = [3, '3DZQ', 'Lys653Arg','-','Lys',m9,'Arg','']
+				residue_mutation.loc[len(residue_mutation.index)] = [4, '3DZQ', 'Asp678Glu','-','Asp',m10,'Glu','']
+				residue_mutation.loc[len(residue_mutation.index)] = [5, '3DZQ', 'Ile621Lys','-','Ile',m1,'Lys',''] 
+				residue_mutation.loc[len(residue_mutation.index)] = [6, '3DZQ', 'Thr660Lys','-','Thr',m2,'Lys',''] 
+				residue_mutation.loc[len(residue_mutation.index)] = [7, '3DZQ', 'Arg728Leu','-','Arg',m3,'Leu',''] 
+				residue_mutation.loc[len(residue_mutation.index)] = [8, '3DZQ', 'Gly766Glu','-','Gly',m4,'Glu',''] 
+				residue_mutation.loc[len(residue_mutation.index)] = [9, '3DZQ', 'Asp806Asn','-','Asp',m5,'Asn',''] 
 
 				cutoff = 70
 				type_spatial='wavelet'
