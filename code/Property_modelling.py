@@ -350,168 +350,232 @@ for i in signals:
 		signals_wavelet.append(i+"_"+str(j))
 
 def mutation_find_wavelet_coefficient(dictionary,residue_mutation,amino_lookup,signal_important,cutoff,type_spatial,network_type):
-    residue_mutation['pdb'] = [x.upper() for x in residue_mutation['pdb']]
-    keys = dictionary.keys()
-    d1 = {}
-    for i in keys:
-        i1 = i.split('.')[0]
-        i1 = i1.upper()
-        d1[i1] = dictionary[i]  
-    G = {}
-    for pdb in d1.keys():
-        try:
-            G[pdb] = get_graph(d1[pdb]['distance_matrix'], network_type=network_type, rig_cutoff=7.3)
-        except:
-            continue  
-    coeff_final = {}
-    for k in d1.keys():
+	residue_mutation['pdb'] = [x.upper() for x in residue_mutation['pdb']]
+	keys = dictionary.keys()
+	d1 = {}
+	for i in keys:
+		i1 = i.split('.')[0]
+		i1 = i1.upper()
+		d1[i1] = dictionary[i]  
+	G = {}
+	for pdb in d1.keys():
+		try:
+			G[pdb] = get_graph(d1[pdb]['distance_matrix'], network_type=network_type, rig_cutoff=7.3)
+		except:
+			continue  
+	coeff_final = {}
+	for k in d1.keys():
 #         coeff_final[k] = {}
-        indx = np.where(residue_mutation['pdb'] == k)[0]
-        residues = residue_mutation.loc[indx,'Residue']
-        pos = np.array(residue_mutation.loc[indx,'Position'])
-        dis = np.array(residue_mutation.loc[indx,'Disease name'])
-        residues = [amino_lookup.get(key.upper()) for key in residues]
-        to_mutate = np.array(residue_mutation.loc[indx,'Mutate_to_residue'])
+		indx = np.where(residue_mutation['pdb'] == k)[0]
+		residues = residue_mutation.loc[indx,'Residue']
+		pos = np.array(residue_mutation.loc[indx,'Position'])
+		dis = np.array(residue_mutation.loc[indx,'Disease name'])
+		residues = [amino_lookup.get(key.upper()) for key in residues]
+		to_mutate = np.array(residue_mutation.loc[indx,'Mutate_to_residue'])
 #         residues = np.unique(residues)
-        G1 = G[k]
+		G1 = G[k]
 #         print(np.array(list(d1[k]['sequence'])))
-        for m,j in enumerate(residues):
+		for m,j in enumerate(residues):
 #             indices = [l for l,s in enumerate(d1[k]['sequence']) if j in s]
-            indices = pos[m]
-            try:
-                if np.array(list(d1[k]['sequence']))[indices] == j: 
-                    print("protein",k)
-                    print("residue",j)
-                    print("position",pos[m])
-                    print("disease",dis[m])
-                    print("to_mutate",to_mutate[m])
-                    coeff_final[k,j,pos[m],dis[m]] = {}
-                    for i in signal_important:
+			indices = pos[m]
+			try:
+				if np.array(list(d1[k]['sequence']))[indices] == j: 
+					print("protein",k)
+					print("residue",j)
+					print("position",pos[m])
+					print("disease",dis[m])
+					print("to_mutate",to_mutate[m])
+					coeff_final[k,j,pos[m],dis[m]] = {}
+					for i in signal_important:
 #                         try:
-                            coeff_final[k,j,pos[m],dis[m]][i] = {}
-                            signal = get_signal(G1, d1[k]['sequence'],k,signal=i)
-                            coeff1 = get_filtered_signal_mutation(G1, signal, cutoff, type_spatial, indices)
-        #                     print(coeff1)
-                            coeff_final[k,j,pos[m],dis[m]][i] = coeff1  
+							coeff_final[k,j,pos[m],dis[m]][i] = {}
+							signal = get_signal(G1, d1[k]['sequence'],k,signal=i)
+							coeff1 = get_filtered_signal_mutation(G1, signal, cutoff, type_spatial, indices)
+		#                     print(coeff1)
+							coeff_final[k,j,pos[m],dis[m]][i] = coeff1  
 #                         except:
 #                             if coeff_final[k][j,pos[m]][i] == {}:
 #                                 del coeff_final[k][j,pos[m]][i] 
-                    if coeff_final[k,j,pos[m],dis[m]] == {}:
-                                del coeff_final[k,j,pos[m],dis[m]]  
-            except:
-                traceback.print_exc()
-    return coeff_final
+					if coeff_final[k,j,pos[m],dis[m]] == {}:
+								del coeff_final[k,j,pos[m],dis[m]]  
+			except:
+				traceback.print_exc()
+	return coeff_final
 
 def get_filtered_signal_mutation(G, signal, cutoff,type_spatial, indices):
-    if type_spatial == 'fourier':
-        gftsignal = G.gft(signal)
-        signal_hat = gftsignal
-        value = np.sum(abs(signal_hat[G.e < G.lmax*cutoff])) / np.sum(abs(signal_hat))
-        return value
-    elif type_spatial == 'wavelet':
-        N_f=4
-        scales = utils.compute_log_scales(1, len(signal), N_f-1)
-        mex = filters.Abspline(G, Nf=N_f,scales=scales)
-        signal_filtered_hat = mex.filter(signal)
-        signal_filtered_hat = np.abs(signal_filtered_hat)
-        signal_filtered_hat1 = np.zeros([1,signal_filtered_hat.shape[1]])
-        for j in range(signal_filtered_hat.shape[1]):
-            p = np.percentile(signal_filtered_hat[:,j], 70) 
-            signal_filtered_hat[np.where(signal_filtered_hat[:,j]<p),j] = 0        
-            b = [stats.percentileofscore(signal_filtered_hat[:,j], a, 'rank') for a in signal_filtered_hat[:,j]]
-            signal_filtered_hat[:,j] = b
-#             print(signal_filtered_hat[:,j])
-            signal_filtered_hat1[:,j] = signal_filtered_hat[indices,j] 
-        signal_filtered_hat1 = np.mean(np.abs(signal_filtered_hat1))
-        return signal_filtered_hat1
+	if type_spatial == 'fourier':
+		gftsignal = G.gft(signal)
+		signal_hat = gftsignal
+		value = np.sum(abs(signal_hat[G.e < G.lmax*cutoff])) / np.sum(abs(signal_hat))
+		return value
+	elif type_spatial == 'wavelet':
+		N_f=4
+		scales = utils.compute_log_scales(1, len(signal), N_f-1)
+		mex = filters.Abspline(G, Nf=N_f,scales=scales)
+		signal_filtered_hat = mex.filter(signal)
+		signal_filtered_hat = np.abs(signal_filtered_hat)
+		signal_filtered_hat1 = np.zeros([1,signal_filtered_hat.shape[1]])
+		for j in range(signal_filtered_hat.shape[1]):
+			p = np.percentile(signal_filtered_hat[:,j], 70) 
+			signal_filtered_hat[np.where(signal_filtered_hat[:,j]<p),j] = 0        
+			b = [stats.percentileofscore(signal_filtered_hat[:,j], a, 'rank') for a in signal_filtered_hat[:,j]]
+			signal_filtered_hat[:,j] = b
+			# print(signal_filtered_hat[:,j])
+			signal_filtered_hat1[:,j] = signal_filtered_hat[indices,j] 
+		signal_filtered_hat1 = np.mean(np.abs(signal_filtered_hat1))
+		return signal_filtered_hat1
 
 def mutation_find_replace_diff(seq,mutation_site,mutate_to):
-    s2 = list(seq)
-    print(s2)
-    for i in range(len(s2)):
-        if i==mutation_site:
-            s2[i] = mutate_to
-    seq1 = ''.join(s2)
-    print(seq1)
-    return seq1
+	s2 = list(seq)
+	print(s2)
+	for i in range(len(s2)):
+		if i==mutation_site:
+			s2[i] = mutate_to
+	seq1 = ''.join(s2)
+	# print(seq1)
+	return seq1
 
 
-def get_filtered_signal_mutation_diff(G, signal,type_spatial, cutoff=10):
-    if type_spatial == 'fourier':
-        gftsignal = G.gft(signal)
-        signal_hat = gftsignal
-        value = np.sum(abs(signal_hat[G.e < G.lmax*cutoff])) / np.sum(abs(signal_hat))
-        return value
-    elif type_spatial == 'wavelet':
-        N_f=4
-        scales = utils.compute_log_scales(1, len(signal), N_f-1)
-        mex = filters.Abspline(G, Nf=N_f,scales=scales)
-        signal_filtered_hat = mex.filter(signal)
-        signal_filtered_hat = np.abs(signal_filtered_hat)
-        for j in range(signal_filtered_hat.shape[1]):
-                p = np.percentile(signal_filtered_hat[:,j], cutoff) 
-                signal_filtered_hat[np.where(signal_filtered_hat[:,j]<p),j] = 0
-#         signal_filtered_hat = np.mean(np.abs(signal_filtered_hat),axis=0)
-        signal_filtered_hat = np.mean(signal_filtered_hat,axis=0)
-        return signal_filtered_hat
+def get_filtered_signal_mutation_diff(G, signal,type_spatial, cutoff=70):
+	if type_spatial == 'fourier':
+		gftsignal = G.gft(signal)
+		signal_hat = gftsignal
+		value = np.sum(abs(signal_hat[G.e < G.lmax*cutoff])) / np.sum(abs(signal_hat))
+		return value
+	elif type_spatial == 'wavelet':
+		N_f=4
+		scales = utils.compute_log_scales(1, len(signal), N_f-1)
+		mex = filters.Abspline(G, Nf=N_f,scales=scales)
+		signal_filtered_hat = mex.filter(signal)
+		signal_filtered_hat = np.abs(signal_filtered_hat)
+		for j in range(signal_filtered_hat.shape[1]):
+				p = np.percentile(signal_filtered_hat[:,j], cutoff) 
+				signal_filtered_hat[np.where(signal_filtered_hat[:,j]<p),j] = 0
+		signal_filtered_hat = np.mean(np.abs(signal_filtered_hat),axis=0)
+		# signal_filtered_hat = np.mean(signal_filtered_hat,axis=0)
+		return signal_filtered_hat
 
 
 def mutation_find_wavelet_coefficient_diff(dictionary,residue_mutation,amino_lookup,cutoff,type_spatial,network_type,gsp_features,model,signals,probability_before):
-    residue_mutation['pdb'] = [x.upper() for x in residue_mutation['pdb']]
-    keys = dictionary.keys()
-    d1 = {}
-    cn=0
-    for i in keys:
-        i1 = i.split('.')[0]
-        i1 = i1.upper()
-        d1[i1] = dictionary[i]  
-    G = {}
-    for pdb in d1.keys():
-        try:
-            G[pdb] = get_graph(d1[pdb]['distance_matrix'], network_type=network_type, rig_cutoff=7.3)
-        except:
-            continue  
-    for k in d1.keys():
-        print("k:",k)
-        indx = np.where(residue_mutation['pdb'] == k)[0]
-        residues = residue_mutation.loc[indx,'Residue']
-        pos = np.array(residue_mutation.loc[indx,'Position'])
-        dis = np.array(residue_mutation.loc[indx,'Disease name'])
-        residues = [amino_lookup.get(key.upper()) for key in residues]
-        to_mutate = np.array(residue_mutation.loc[indx,'Mutate_to_residue'])
-        G1 = G[k]
-        for m,j in enumerate(residues):
-            indices = pos[m]
-            try:
-                if np.array(list(d1[k]['sequence']))[indices] == j: 
-                    print("protein",k)
-                    print("residue",j)
-                    print("position",pos[m])
-                    print("disease",dis[m])
-                    print("to_mutate",to_mutate[m])
-                    print("Class belongs to",gsp_features.loc[k,'class'])
-                    print("Prob before Mutation to trans",probability_before.loc[k,'Trans'])
-                    print("Prob before Mutation to glob",probability_before.loc[k,'Glob'])
-                    seq_after_mutation = mutation_find_replace_diff(d1[k]['sequence'],pos[m],amino_lookup.get(to_mutate[m].upper()))
-                    row = []
-                    row1 = []
-                    for i in signals:
-                        signal = get_signal(G1, seq_after_mutation,k,signal=i)
-                        coeff1 = get_filtered_signal_mutation_diff(G1, signal, type_spatial)
-                        row.extend(coeff1)
-                        row1.extend(coeff1)
-                    row.extend([gsp_features.loc[k,'class']])
-                    gsp_features.loc[k] = row    
-                    model = RandomForestClassifier(n_estimators=1000)
-                    X = gsp_features[gsp_features.columns.difference(['class'])]
-                    y = gsp_features['class']
-                    model.fit(X, y)
-                    if cn<=4:print("Prob after mutation :",model.predict_proba(np.array(row1).reshape(1, -1))[0][1])
-                    else:print("Prob after mutation :",model.predict_proba(np.array(row1).reshape(1, -1))[0][0])
-                    cn=cn+1
-            except:
-                traceback.print_exc()
-                pass
+	residue_mutation['pdb'] = [x.upper() for x in residue_mutation['pdb']]
+	keys = dictionary.keys()
+	d1 = {}
+	cn=0
+	for i in keys:
+		i1 = i.split('.')[0]
+		i1 = i1.upper()
+		d1[i1] = dictionary[i]  
+	G = {}
+	for pdb in d1.keys():
+		try:
+			G[pdb] = get_graph(d1[pdb]['distance_matrix'], network_type=network_type, rig_cutoff=7.3)
+		except:
+			continue  
+	for k in d1.keys():
+		print("k:",k)
+		indx = np.where(residue_mutation['pdb'] == k)[0]
+		residues = residue_mutation.loc[indx,'Residue']
+		pos = np.array(residue_mutation.loc[indx,'Position'])
+		dis = np.array(residue_mutation.loc[indx,'Disease name'])
+		residues = [amino_lookup.get(key.upper()) for key in residues]
+		mutate = np.array(residue_mutation.loc[indx,'Mutate_to_residue'])
+		G1 = G[k]
+		for m,j in enumerate(residues):
+			indices = pos[m]
+			try:
+				if np.array(list(d1[k]['sequence']))[indices] == j and j!=amino_lookup.get(mutate[m].upper()): 
+					print("protein",k)
+					print("residue",j)
+					print("position",pos[m])
+					print("disease",dis[m])
+					print("to_mutate",mutate[m])
+					print("Class belongs to",gsp_features.loc[k,'class'])
+
+					row = []
+					for signal_name in signals:
+						signal = get_signal(G1, d1[k]['sequence'],k,signal=signal_name)
+						value = get_filtered_signal(G1,signal,cutoff=70,type_spatial='wavelet')       
+						row.extend(value)
+					row.extend([gsp_features.loc[k,'class']])
+					gsp_features1 = gsp_features
+					gsp_features1.loc[k] = row   
+
+					X = gsp_features1[gsp_features1.columns.difference(['class'])]
+					probability = model.predict_proba(X)
+					probability = pd.DataFrame(probability)
+					probability.columns = ['Trans','Glob']
+					probability.index = gsp_features.index
+					print("Prob before mutation :",np.array(probability.loc[k,:]))
+					# print("Prob before Mutation to trans",probability_before.loc[k,'Trans'])
+					# print("Prob before Mutation to glob",probability_before.loc[k,'Glob'])
+					seq_after_mutation = mutation_find_replace_diff(d1[k]['sequence'],pos[m],amino_lookup.get(mutate[m].upper()))
+					row = []
+					row1 = []
+					for i in signals:
+						signal = get_signal(G1, seq_after_mutation,k,signal=i)
+						coeff1 = get_filtered_signal_mutation_diff(G1, signal, type_spatial)
+						row.extend(coeff1)
+						row1.extend(coeff1)
+					row.extend([gsp_features.loc[k,'class']])
+					gsp_features1.loc[k] = row
+					X = gsp_features1[gsp_features1.columns.difference(['class'])]
+					probability = model.predict_proba(X)
+					probability = pd.DataFrame(probability)
+					probability.columns = ['Trans','Glob']
+					probability.index = gsp_features.index
+					# row.extend([gsp_features.loc[k,'class']])
+					# gsp_features.loc[k] = row    
+					# model = RandomForestClassifier(n_estimators=1000)
+					# X = gsp_features[gsp_features.columns.difference(['class'])]
+					# y = gsp_features['class']
+					# model.fit(X, y)
+					# print("Prob after mutation :",probability.loc[k,:])
+					if cn<=4:print("Prob after mutation :",np.array(probability.loc[k,'Trans']))
+					else:print("Prob after mutation :",np.array(probability.loc[k,'Glob']))
+					cn=cn+1
+				else:
+					print("protein",k)
+					print("residue",j)
+					print("position",pos[m])
+					print("disease",dis[m])
+					print("to_mutate",mutate[m])
+					print("Class belongs to",gsp_features.loc[k,'class'])
+
+					row = []
+					for signal_name in signals:
+						signal = get_signal(G1, d1[k]['sequence'],k,signal=signal_name)
+						value = get_filtered_signal(G1,signal,cutoff=70,type_spatial='wavelet')       
+						row.extend(value)
+					row.extend([gsp_features.loc[k,'class']])
+					gsp_features1 = gsp_features
+					gsp_features1.loc[k] = row   
+
+					X = gsp_features1[gsp_features1.columns.difference(['class'])]
+					probability = model.predict_proba(X)
+					probability = pd.DataFrame(probability)
+					probability.columns = ['Trans','Glob']
+					probability.index = gsp_features.index
+					print("Prob before mutation :",np.array(probability.loc[k,:]))
+					seq_after_mutation = mutation_find_replace_diff(d1[k]['sequence'],pos[m],amino_lookup.get(mutate[m].upper()))
+					row = []
+					row1 = []
+					for i in signals:
+						signal = get_signal(G1, seq_after_mutation,k,signal=i)
+						coeff1 = get_filtered_signal(G1, signal,cutoff=70,type_spatial="wavelet")
+						row.extend(coeff1)
+						row1.extend(coeff1)
+					row.extend([gsp_features.loc[k,'class']])
+					gsp_features1.loc[k] = row
+					X = gsp_features1[gsp_features1.columns.difference(['class'])]
+					probability = model.predict_proba(X)
+					probability = pd.DataFrame(probability)
+					probability.columns = ['Trans','Glob']
+					probability.index = gsp_features.index
+					print("Prob after mutation :",np.array(probability.loc[k,'Glob']))
+					cn=cn+1
+			except:
+				traceback.print_exc()
+				pass
 #     return coeff_final
 
 
@@ -529,9 +593,9 @@ def main(argv):
 			print("Property_modelling.py -c <Choice of Task to perform> -p <property> -m <ML_model>")
 			sys.exit()
 		elif opt in ("-c"):
-			 choice = arg
+			choice = arg
 		elif opt in ("-p"):
-			 property = arg
+			property = arg
 		elif opt in ("-m"):
 			ML_model = arg
 	if property == '' or ML_model == '' or choice == '':
@@ -617,7 +681,7 @@ def main(argv):
 			pdbinfo_dict = pdbinfo_dict_trans.copy()
 			#print(pdbinfo_dict)
 			pdbinfo_dict.update(pdbinfo_dict_glob)
-			print(pdbinfo_dict.keys())
+			# print(pdbinfo_dict.keys())
 
 			for pdb in G_glob.keys():
 					row = []
@@ -894,7 +958,7 @@ def main(argv):
 				m8 = 678-609
 				m9 = 653-609
 				m10 = 678-609
-				residue_mutation.loc[len(residue_mutation.index)] = [0, '3DZQ', 'Ile621Lys','-','Ile',m1,'Lys',''] 
+				residue_mutation.loc[len(residue_mutation.index)] = [0, '3DZQ', 'Ile621Lys','-','Ile',m1,'Ile',''] 
 				residue_mutation.loc[len(residue_mutation.index)] = [1, '3DZQ', 'Thr660Lys','-','Thr',m2,'Lys',''] 
 				residue_mutation.loc[len(residue_mutation.index)] = [2, '3DZQ', 'Arg728Leu','-','Arg',m3,'Leu',''] 
 				residue_mutation.loc[len(residue_mutation.index)] = [3, '3DZQ', 'Gly766Glu','-','Gly',m4,'Glu',''] 
@@ -913,7 +977,7 @@ def main(argv):
 				probability_before.index = gsp_features.index
 				final_dict = mutation_find_wavelet_coefficient_diff(pdbinfo_dict_6yf5,residue_mutation,amino_lookup,cutoff,type_spatial,network_type,gsp_features,clf,signals,probability_before)
 
-                        
+						
 
 if __name__ == "__main__":
 	main(sys.argv[1:])
