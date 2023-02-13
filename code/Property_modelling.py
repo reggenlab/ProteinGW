@@ -418,8 +418,8 @@ def get_filtered_signal_mutation(G, signal, cutoff,type_spatial, indices):
         for j in range(signal_filtered_hat.shape[1]):
             p = np.percentile(signal_filtered_hat[:,j], 70) 
             signal_filtered_hat[np.where(signal_filtered_hat[:,j]<p),j] = 0        
-            b = [stats.percentileofscore(signal_filtered_hat[:,j], a, 'rank') for a in signal_filtered_hat[:,j]]
-            signal_filtered_hat[:,j] = b
+            #b = [stats.percentileofscore(signal_filtered_hat[:,j], a, 'rank') for a in signal_filtered_hat[:,j]]
+            #signal_filtered_hat[:,j] = b
 #             print(signal_filtered_hat[:,j])
             signal_filtered_hat1[:,j] = signal_filtered_hat[indices,j] 
         signal_filtered_hat1 = np.mean(np.abs(signal_filtered_hat1))
